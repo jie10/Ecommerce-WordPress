@@ -1,0 +1,6340 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Nasa Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-23 16:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: nasa-core"
+
+#: includes/shortcodes/nasa_01_4_product_deal.php:79
+#: layouts/products/nasa_products_deal/product_special_deal_multi-2.php:117
+#: layouts/products/nasa_products_deal/product_special_deal_multi.php:108
+#: layouts/products/nasa_products_deal/product_special_deal_simple.php:94
+msgid " - Has been an error. You need to rebuild this product."
+msgstr ""
+
+#: includes/incls/nasa_03_functions_woo.php:1427
+#, php-format
+msgid "%s sold in last %s hours"
+msgstr ""
+
+#: layouts/products/nasa_single_product/nasa-single-product-bulk-discount.php:35
+#, php-format
+msgid "%s&nbsp;each"
+msgstr ""
+
+#: layouts/products/nasa_single_product/nasa-single-product-bulk-discount.php:43
+#: layouts/products/nasa_single_product/nasa-single-product-bulk-discount.php:77
+msgid "&nbsp;each"
+msgstr ""
+
+#: includes/widgets/nasa_01_wg_product_brands.php:268
+msgid "+ Show more"
+msgstr ""
+
+#: layouts/blogs/latestblog_carousel.php:40
+#: layouts/blogs/latestblog_grid.php:16 layouts/blogs/latestblog_grid_2.php:16
+#: layouts/blogs/latestblog_grid_3.php:15 layouts/blogs/latestblog_list.php:15
+#: layouts/blogs/single/nasa-blog-relate.php:36
+msgid ", "
+msgstr ""
+
+#: includes/widgets/nasa_01_wg_product_brands.php:268
+msgid "- Show less"
+msgstr ""
+
+#: includes/shortcodes/nasa_03_banners.php:227
+#: includes/shortcodes/nasa_03_banners_2.php:197
+#: includes/widgets_elementor/nasa_03_banners.php:141
+#: includes/widgets_elementor/nasa_03_banners_2.php:122
+msgid "0.1s"
+msgstr ""
+
+#: includes/shortcodes/nasa_03_banners.php:228
+#: includes/shortcodes/nasa_03_banners_2.php:198
+#: includes/widgets_elementor/nasa_03_banners.php:142
+#: includes/widgets_elementor/nasa_03_banners_2.php:123
+msgid "0.2s"
+msgstr ""
+
+#: includes/shortcodes/nasa_02_carousel.php:213
+#: includes/shortcodes/nasa_03_banners.php:229
+#: includes/shortcodes/nasa_03_banners_2.php:199
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:136
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:129
+#: includes/widgets_elementor/nasa_02_carousel.php:136
+#: includes/widgets_elementor/nasa_02_carousel_2.php:136
+#: includes/widgets_elementor/nasa_03_banners.php:143
+#: includes/widgets_elementor/nasa_03_banners_2.php:124
+msgid "0.3s"
+msgstr ""
+
+#: includes/shortcodes/nasa_02_carousel.php:214
+#: includes/shortcodes/nasa_03_banners.php:230
+#: includes/shortcodes/nasa_03_banners_2.php:200
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:137
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:130
+#: includes/widgets_elementor/nasa_02_carousel.php:137
+#: includes/widgets_elementor/nasa_02_carousel_2.php:137
+#: includes/widgets_elementor/nasa_03_banners.php:144
+#: includes/widgets_elementor/nasa_03_banners_2.php:125
+msgid "0.4s"
+msgstr ""
+
+#: includes/shortcodes/nasa_02_carousel.php:215
+#: includes/shortcodes/nasa_03_banners.php:231
+#: includes/shortcodes/nasa_03_banners_2.php:201
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:138
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:131
+#: includes/widgets_elementor/nasa_02_carousel.php:138
+#: includes/widgets_elementor/nasa_02_carousel_2.php:138
+#: includes/widgets_elementor/nasa_03_banners.php:145
+#: includes/widgets_elementor/nasa_03_banners_2.php:126
+msgid "0.5s"
+msgstr ""
+
+#: includes/shortcodes/nasa_02_carousel.php:216
+#: includes/shortcodes/nasa_03_banners.php:232
+#: includes/shortcodes/nasa_03_banners_2.php:202
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:139
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:132
+#: includes/widgets_elementor/nasa_02_carousel.php:139
+#: includes/widgets_elementor/nasa_02_carousel_2.php:139
+#: includes/widgets_elementor/nasa_03_banners.php:146
+#: includes/widgets_elementor/nasa_03_banners_2.php:127
+msgid "0.6s"
+msgstr ""
+
+#: includes/shortcodes/nasa_02_carousel.php:217
+#: includes/shortcodes/nasa_03_banners.php:233
+#: includes/shortcodes/nasa_03_banners_2.php:203
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:140
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:133
+#: includes/widgets_elementor/nasa_02_carousel.php:140
+#: includes/widgets_elementor/nasa_02_carousel_2.php:140
+#: includes/widgets_elementor/nasa_03_banners.php:147
+#: includes/widgets_elementor/nasa_03_banners_2.php:128
+msgid "0.7s"
+msgstr ""
+
+#: includes/shortcodes/nasa_02_carousel.php:218
+#: includes/shortcodes/nasa_03_banners.php:234
+#: includes/shortcodes/nasa_03_banners_2.php:204
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:141
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:134
+#: includes/widgets_elementor/nasa_02_carousel.php:141
+#: includes/widgets_elementor/nasa_02_carousel_2.php:141
+#: includes/widgets_elementor/nasa_03_banners.php:148
+#: includes/widgets_elementor/nasa_03_banners_2.php:129
+msgid "0.8s"
+msgstr ""
+
+#: includes/shortcodes/nasa_02_carousel.php:219
+#: includes/shortcodes/nasa_03_banners.php:235
+#: includes/shortcodes/nasa_03_banners_2.php:205
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:142
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:135
+#: includes/widgets_elementor/nasa_02_carousel.php:142
+#: includes/widgets_elementor/nasa_02_carousel_2.php:142
+#: includes/widgets_elementor/nasa_03_banners.php:149
+#: includes/widgets_elementor/nasa_03_banners_2.php:130
+msgid "0.9s"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_6_product_groups.php:282
+msgid "1"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:349
+#: admin/incls/nasa_04_custom_setting.php:361
+msgid "1 column"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:687
+msgid "1 level"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:221
+#: includes/widgets_elementor/nasa_01_1_products.php:70
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:130
+msgid "1 Row"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:350
+msgid "1,5 columns"
+msgstr ""
+
+#: includes/shortcodes/nasa_02_carousel.php:220
+#: includes/shortcodes/nasa_03_banners.php:236
+#: includes/shortcodes/nasa_03_banners_2.php:206
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:143
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:136
+#: includes/widgets_elementor/nasa_02_carousel.php:143
+#: includes/widgets_elementor/nasa_02_carousel_2.php:143
+msgid "1.0s"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:144
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:137
+#: includes/widgets_elementor/nasa_02_carousel.php:144
+#: includes/widgets_elementor/nasa_02_carousel_2.php:144
+msgid "1.1s"
+msgstr ""
+
+#: includes/shortcodes/nasa_02_carousel.php:221
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:145
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:138
+#: includes/widgets_elementor/nasa_02_carousel.php:145
+#: includes/widgets_elementor/nasa_02_carousel_2.php:145
+msgid "1.2s"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:146
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:139
+#: includes/widgets_elementor/nasa_02_carousel.php:146
+#: includes/widgets_elementor/nasa_02_carousel_2.php:146
+msgid "1.3s"
+msgstr ""
+
+#: includes/shortcodes/nasa_02_carousel.php:222
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:147
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:140
+#: includes/widgets_elementor/nasa_02_carousel.php:147
+#: includes/widgets_elementor/nasa_02_carousel_2.php:147
+msgid "1.4s"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:148
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:141
+#: includes/widgets_elementor/nasa_02_carousel.php:148
+#: includes/widgets_elementor/nasa_02_carousel_2.php:148
+msgid "1.5s"
+msgstr ""
+
+#: includes/shortcodes/nasa_02_carousel.php:223
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:149
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:142
+#: includes/widgets_elementor/nasa_02_carousel.php:149
+#: includes/widgets_elementor/nasa_02_carousel_2.php:149
+msgid "1.6s"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:284
+#: includes/widgets_elementor/nasa_02_carousel_2.php:265
+msgid "100ms"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_03_banners.php:150
+#: includes/widgets_elementor/nasa_03_banners_2.php:131
+msgid "1s"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_6_product_groups.php:281
+msgid "2"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:335
+#: admin/incls/nasa_04_custom_setting.php:351
+#: admin/incls/nasa_04_custom_setting.php:362
+msgid "2 columns"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:688
+msgid "2 levels"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:222
+#: includes/widgets_elementor/nasa_01_1_products.php:71
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:131
+msgid "2 Rows"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:285
+#: includes/widgets_elementor/nasa_02_carousel_2.php:266
+msgid "200ms"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_6_product_groups.php:280
+msgid "3"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:336
+#: admin/incls/nasa_04_custom_setting.php:363
+#: admin/incls/nasa_04_custom_setting.php:364
+msgid "3 columns"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:689
+msgid "3 levels"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:223
+#: includes/widgets_elementor/nasa_01_1_products.php:72
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:132
+msgid "3 Rows"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:286
+#: includes/widgets_elementor/nasa_02_carousel_2.php:267
+msgid "300ms"
+msgstr ""
+
+#: includes/incls/nasa_03_functions_woo.php:1114
+#: includes/incls/nasa_03_functions_woo.php:1143
+msgid "360&#176;"
+msgstr ""
+
+#: includes/incls/nasa_03_functions_woo.php:1114
+msgid "360&#176; View"
+msgstr ""
+
+#: admin/incls/nasa_05_wc_product_data_fields.php:207
+msgid "360&#176; Viewer"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:204
+msgid "360&#176; Viewer Badge In Grid"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:337
+msgid "4 columns"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:287
+#: includes/widgets_elementor/nasa_02_carousel_2.php:268
+msgid "400ms"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:338
+msgid "5 columns"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:288
+#: includes/widgets_elementor/nasa_02_carousel_2.php:269
+msgid "500ms"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:339
+msgid "6 columns"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:289
+#: includes/widgets_elementor/nasa_02_carousel_2.php:270
+msgid "600ms"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:290
+#: includes/widgets_elementor/nasa_02_carousel_2.php:271
+msgid "700ms"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:291
+#: includes/widgets_elementor/nasa_02_carousel_2.php:272
+msgid "800ms"
+msgstr ""
+
+#: admin/incls/nasa_05_wc_product_data_fields.php:120
+msgid "800x800"
+msgstr ""
+
+#: layouts/products/nasa_single_product/nasa-single-product-popup-nodes.php:193
+msgid ""
+"<i class=\"pe-7s-info\"></i> The administrator can manager<br />the message "
+"with this product information in the Dashboard"
+msgstr ""
+
+#: layouts/products/nasa_single_product/nasa-single-product-popup-nodes.php:115
+msgid ""
+"<i class=\"pe-7s-info\"></i> The administrator will get the request a call "
+"back<br />include this product information in the Dashboard"
+msgstr ""
+
+#: layouts/products/nasa_single_product/nasa-single-product-bulk-discount.php:114
+msgid "<strong>Bulk Savings</strong>&nbsp;(Buy more get more)"
+msgstr ""
+
+#: includes/incls/nasa_03_functions_woo.php:1512
+msgid "<strong>people</strong>&nbsp;are viewing this right now"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:269
+msgid "Accordion"
+msgstr ""
+
+#: layouts/products/nasa_single_product/nasa-single-product-accessories-tab-content.php:124
+msgid "Add all to Cart"
+msgstr ""
+
+#: admin/views/media-multi-images.php:47
+msgid "Add Gallery"
+msgstr ""
+
+#: admin/incls/nasa_05_wc_product_data_fields.php:217
+msgid "Add Gallery 360&#176; Viewer"
+msgstr ""
+
+#: admin/views/media-multi-images.php:51
+#: admin/views/variation-admin-gallery-images.php:53
+msgid "Add Gallery Images"
+msgstr ""
+
+#: admin/metabox/helpers/cmb_Meta_Box_field.php:498
+msgid "Add Group"
+msgstr ""
+
+#: admin/views/variation-admin-gallery-images.php:49
+msgid "Add images to variation gallery"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:87
+msgid "Add more width site (px)"
+msgstr ""
+
+#: admin/incls/nasa_07_wc_attr_ux_admin.php:232
+#: admin/incls/nasa_07_wc_attr_ux_admin.php:325
+#: includes/incls/nasa_09_wc_taxonomy.php:80
+#: includes/incls/nasa_10_wc_brand.php:95
+#: post_type/incls/nasa_04_pin_products_banner.php:10
+#: post_type/incls/nasa_04_pin_products_banner.php:11
+#: post_type/incls/nasa_05_pin_material_banner.php:10
+#: post_type/incls/nasa_05_pin_material_banner.php:11
+msgid "Add New"
+msgstr ""
+
+#: post_type/incls/nasa_03_block.php:10 post_type/incls/nasa_03_block.php:11
+msgid "Add New Block"
+msgstr ""
+
+#: admin/views/bulk-dsct.php:48
+msgid "Add New Bulk Discount"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:67
+msgid "Add New Category"
+msgstr ""
+
+#: post_type/incls/nasa_01_footer.php:10 post_type/incls/nasa_01_footer.php:11
+msgid "Add New Footer"
+msgstr ""
+
+#: post_type/incls/nasa_00_header.php:10 post_type/incls/nasa_00_header.php:11
+msgid "Add New Header"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:16
+msgid "Add New Project"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:261
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:292
+#: includes/widgets_elementor/nasa_02_carousel.php:404
+#: includes/widgets_elementor/nasa_02_carousel_2.php:385
+msgid "Add New Slide"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:320
+msgid "Add New Tab"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:54
+msgid "Add New Tag"
+msgstr ""
+
+#: admin/incls/nasa_07_wc_attr_ux_admin.php:299
+msgid "Add new term"
+msgstr ""
+
+#: admin/metabox/helpers/cmb_Meta_Box_types.php:680
+#: admin/metabox/helpers/cmb_Meta_Box_types.php:732
+msgid "Add or Upload File"
+msgstr ""
+
+#: admin/metabox/helpers/cmb_Meta_Box_types.php:251
+msgid "Add Row"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:359
+msgid "Add static block to Header"
+msgstr ""
+
+#: includes/incls/nasa_08_wc_attr_ux.php:198
+msgid "Add to cart"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:72
+msgid "Add To Cart UX Variations in Grid"
+msgstr ""
+
+#: admin/views/media-multi-images.php:48
+#: admin/views/variation-admin-gallery-images.php:50
+msgid "Add to gallery"
+msgstr ""
+
+#: admin/incls/nasa_07_wc_attr_ux_admin.php:397
+msgid "Added successfully"
+msgstr ""
+
+#: admin/incls/nasa_05_wc_product_data_fields.php:93
+msgid "Additional"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:625
+msgid "Address"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:275
+msgid "After Cart Content - Shopping Cart"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:267
+msgid "After Cart Table - Shopping Cart"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:283
+msgid "After Customer Details - Checkout"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:291
+msgid "After Place Order Button - Checkout"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:258
+msgid "After Process Checkout Button - Shopping Cart"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:299
+msgid "After Review Order Payment - Checkout"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:250
+msgid "After Single Product Add To Cart Form"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:189
+#: includes/widgets_elementor/nasa_01_1_products.php:48
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:108
+msgid "Ajax Infinite"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:588
+#: includes/shortcodes/nasa_17_others.php:949
+#: includes/widgets_elementor/nasa_17_others.php:202
+msgid "Align"
+msgstr ""
+
+#: includes/shortcodes/nasa_06_menu_vertical.php:78
+#: includes/shortcodes/nasa_07_compare_imgs.php:129
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:41
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:35
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:28
+#: includes/widgets_elementor/nasa_02_carousel.php:35
+#: includes/widgets_elementor/nasa_02_carousel_2.php:35
+#: includes/widgets_elementor/nasa_06_menu_vertical.php:33
+#: includes/widgets_elementor/nasa_07_compare_imgs.php:39
+msgid "Alignment"
+msgstr ""
+
+#: layouts/products/nasa_single_product/nasa-single-product-accessories-tab-content.php:124
+msgid "All add to Cart"
+msgstr ""
+
+#: layouts/blogs/latestblog_carousel.php:157
+#: layouts/blogs/latestblog_carousel.php:158
+#: layouts/blogs/latestblog_grid.php:138 layouts/blogs/latestblog_grid.php:139
+#: layouts/blogs/latestblog_grid_2.php:107
+#: layouts/blogs/latestblog_grid_2.php:108
+#: layouts/blogs/latestblog_grid_3.php:115
+#: layouts/blogs/latestblog_grid_3.php:116
+#: layouts/blogs/latestblog_list.php:130 layouts/blogs/latestblog_list.php:131
+msgid "All Blogs"
+msgstr ""
+
+#: includes/incls/nasa_10_wc_brand.php:90
+msgid "All Brands"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:62
+msgid "All Categories"
+msgstr ""
+
+#: includes/incls/nasa_09_wc_taxonomy.php:75
+msgid "All Groups"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:264
+msgid "ALL PORTFOLIOS LOADED"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products_masonry.php:94
+#: layouts/products/nasa_products/infinite.php:25
+msgid "ALL PRODUCTS LOADED"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:49
+msgid "All Tags"
+msgstr ""
+
+#: admin/incls/nasa_05_wc_product_data_fields.php:232
+#: admin/incls/nasa_05_wc_product_data_fields.php:282
+msgid "Allow Bulk Discount"
+msgstr ""
+
+#: admin/incls/nasa_05_wc_product_data_fields.php:259
+msgid "Allow Customized by Customer"
+msgstr ""
+
+#: layouts/products/nasa_products_deal/product_deal.php:25
+#: layouts/products/nasa_products_deal/product_special_deal_multi-2.php:182
+#: layouts/products/nasa_products_deal/product_special_deal_multi.php:163
+#: layouts/products/nasa_products_deal/product_special_deal_simple.php:107
+msgid "Already Sold:"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:917
+#: includes/widgets_elementor/nasa_17_others.php:174
+msgid "ALT - Title"
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:405
+#: includes/widgets_elementor/nasa_13_share_follow.php:130
+msgid "Amazon"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:839
+msgid "Amazon URL"
+msgstr ""
+
+#: includes/shortcodes/nasa_03_banners.php:223
+#: includes/shortcodes/nasa_03_banners_2.php:193
+#: includes/widgets_elementor/nasa_02_carousel.php:281
+#: includes/widgets_elementor/nasa_02_carousel_2.php:262
+#: includes/widgets_elementor/nasa_03_banners.php:138
+#: includes/widgets_elementor/nasa_03_banners_2.php:119
+msgid "Animation Delay"
+msgstr ""
+
+#: admin/views/media-image.php:12
+msgid "Are you sure to delete image ?"
+msgstr ""
+
+#: admin/views/bulk-dsct.php:36 admin/views/bulk-dsct.php:70
+msgid "Are you sure you want to remove it?"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:287
+#: includes/shortcodes/nasa_01_4_products_special_deal.php:262
+#: includes/shortcodes/nasa_02_carousel.php:147
+#: includes/shortcodes/nasa_08_post.php:218
+#: includes/widgets_elementor/nasa_01_4_products_special_deal.php:91
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:81
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:74
+#: includes/widgets_elementor/nasa_02_carousel.php:81
+#: includes/widgets_elementor/nasa_02_carousel_2.php:81
+#: includes/widgets_elementor/nasa_08_post.php:53
+msgid "Arrows"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_1_products.php:107
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:167
+msgid "Arrows (Only use for Style is Carousel or Simple Slide)"
+msgstr ""
+
+#: layouts/products/nasa_single_product/nasa-single-product-popup-nodes.php:58
+#: layouts/products/nasa_single_product/nasa-single-product-popup-nodes.php:109
+msgid "Ask a Question"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:234
+msgid "Ask a Question - Single Product Page"
+msgstr ""
+
+#: admin/views/product_category/attr_color_style.php:18
+#: admin/views/product_category/attr_color_style.php:33
+msgid "Attribule Color Style - Single | Quickview"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:176
+#: admin/views/product_category/attr_image_style.php:16
+#: admin/views/product_category/attr_image_style.php:31
+msgid "Attribule Image Style"
+msgstr ""
+
+#: admin/views/product_category/attr_image_single_style.php:16
+#: admin/views/product_category/attr_image_single_style.php:31
+msgid "Attribule Image Style - Single | Quickview"
+msgstr ""
+
+#: admin/views/product_category/attr_label_style.php:19
+#: admin/views/product_category/attr_label_style.php:34
+msgid "Attribule Label Style - Single | Quickview"
+msgstr ""
+
+#: includes/shortcodes/nasa_02_carousel.php:199
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:127
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:120
+#: includes/widgets_elementor/nasa_02_carousel.php:127
+#: includes/widgets_elementor/nasa_02_carousel_2.php:127
+msgid "Auto Play"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_4_products_special_deal.php:273
+#: includes/widgets_elementor/nasa_01_4_products_special_deal.php:98
+msgid "Auto Slide"
+msgstr ""
+
+#: layouts/products/nasa_products_deal/product_deal.php:24
+#: layouts/products/nasa_products_deal/product_special_deal_multi-2.php:181
+#: layouts/products/nasa_products_deal/product_special_deal_multi.php:162
+#: layouts/products/nasa_products_deal/product_special_deal_simple.php:106
+msgid "Available:"
+msgstr ""
+
+#: includes/shortcodes/nasa_15_team_members.php:105
+#: includes/shortcodes/nasa_17_others.php:542
+msgid "Avatar"
+msgstr ""
+
+#: includes/shortcodes/nasa_16_title.php:142
+msgid "Baby"
+msgstr ""
+
+#: admin/views/product_category/background_breadcrumb_create.php:13
+#: admin/views/product_category/background_breadcrumb_edit.php:24
+msgid "Background Breadcrumb"
+msgstr ""
+
+#: admin/views/product_category/background_breadcrumb_create.php:27
+#: admin/views/product_category/background_breadcrumb_edit.php:43
+msgid "Background Breadcrumb - Mobile"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:528
+msgid "Background Color"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_7_pin_products_banner.php:312
+#: includes/shortcodes/nasa_01_8_pin_material_banner.php:179
+msgid "Background icon"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:512
+msgid "Background Image"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:520
+msgid "Background Image - Mobile"
+msgstr ""
+
+#: includes/shortcodes/nasa_16_title.php:129
+#: includes/shortcodes/nasa_17_others.php:763
+msgid "Background title"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:100
+msgid "Badge Variants"
+msgstr ""
+
+#: includes/shortcodes/nasa_03_banners_2.php:180
+#: includes/widgets_elementor/nasa_03_banners_2.php:78
+msgid "Banner Content"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:247
+msgid "Banner Font"
+msgstr ""
+
+#: includes/shortcodes/nasa_03_banners.php:123
+#: includes/widgets_elementor/nasa_02_carousel.php:170
+#: includes/widgets_elementor/nasa_03_banners.php:27
+msgid "Banner Height"
+msgstr ""
+
+#: includes/shortcodes/nasa_03_banners.php:117
+#: includes/shortcodes/nasa_03_banners_2.php:113
+#: includes/widgets_elementor/nasa_02_carousel.php:164
+#: includes/widgets_elementor/nasa_02_carousel_2.php:164
+#: includes/widgets_elementor/nasa_03_banners.php:21
+#: includes/widgets_elementor/nasa_03_banners_2.php:21
+msgid "Banner Image"
+msgstr ""
+
+#: post_type/incls/nasa_05_pin_material_banner.php:19
+msgid "Banner Material"
+msgstr ""
+
+#: post_type/incls/nasa_04_pin_products_banner.php:19
+msgid "Banner Products"
+msgstr ""
+
+#: includes/shortcodes/nasa_03_banners.php:210
+#: includes/widgets_elementor/nasa_02_carousel.php:240
+#: includes/widgets_elementor/nasa_02_carousel_2.php:221
+#: includes/widgets_elementor/nasa_03_banners.php:97
+msgid "Banner Text"
+msgstr ""
+
+#: includes/shortcodes/nasa_03_banners.php:130
+#: includes/widgets_elementor/nasa_02_carousel.php:176
+#: includes/widgets_elementor/nasa_03_banners.php:33
+msgid "Banner Width"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:584
+msgid "Begin - Max Counter"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:577
+msgid "Begin - Min Counter"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:169
+#: includes/shortcodes/nasa_01_1_products_masonry.php:130
+#: includes/widgets_elementor/nasa_01_1_products.php:30
+#: includes/widgets_elementor/nasa_01_1_products_masonry.php:24
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:90
+#: layouts/products/nasa_products/carousel.php:78
+msgid "Best Selling"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:144
+#: admin/incls/nasa_04_custom_setting.php:158
+#: admin/views/product_category/attr_color_style.php:7
+#: admin/views/product_category/attr_label_style.php:8
+msgid "Big Square"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:809
+#: includes/shortcodes/nasa_17_others.php:935
+msgid "Blank"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:492
+#: includes/widgets_elementor/nasa_17_others.php:116
+#: includes/widgets_elementor/nasa_17_others.php:189
+msgid "Blank - New Window"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:358
+msgid "Block Header"
+msgstr ""
+
+#: includes/shortcodes/nasa_14_static_block.php:86
+msgid "Blocks"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:983
+#: includes/shortcodes/nasa_17_others.php:986
+msgid "Boot Rate"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_7_pin_products_banner.php:326
+#: includes/shortcodes/nasa_01_8_pin_material_banner.php:193
+msgid "Border color icon"
+msgstr ""
+
+#: includes/shortcodes/nasa_03_banners.php:254
+#: includes/shortcodes/nasa_03_banners_2.php:224
+#: includes/widgets_elementor/nasa_02_carousel.php:310
+#: includes/widgets_elementor/nasa_02_carousel_2.php:291
+#: includes/widgets_elementor/nasa_03_banners.php:169
+#: includes/widgets_elementor/nasa_03_banners_2.php:150
+msgid "Border Inner"
+msgstr ""
+
+#: includes/shortcodes/nasa_03_banners.php:265
+#: includes/shortcodes/nasa_03_banners_2.php:235
+#: includes/widgets_elementor/nasa_02_carousel.php:317
+#: includes/widgets_elementor/nasa_02_carousel_2.php:298
+#: includes/widgets_elementor/nasa_03_banners.php:176
+#: includes/widgets_elementor/nasa_03_banners_2.php:157
+msgid "Border Outner"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:375
+#: includes/shortcodes/nasa_03_banners.php:181
+#: includes/shortcodes/nasa_03_banners_2.php:163
+#: includes/shortcodes/nasa_08_post.php:333
+#: includes/widgets_elementor/nasa_02_carousel.php:215
+#: includes/widgets_elementor/nasa_02_carousel_2.php:203
+#: includes/widgets_elementor/nasa_03_banners.php:72
+#: includes/widgets_elementor/nasa_03_banners_2.php:60
+#: includes/widgets_elementor/nasa_08_post.php:137
+msgid "Bottom"
+msgstr ""
+
+#: admin/views/product_category/cat_footer_content.php:14
+#: admin/views/product_category/cat_footer_content.php:33
+#: admin/views/product_category/size_guide_block.php:33
+msgid "Bottom Content"
+msgstr ""
+
+#: admin/views/pin-mb-admin-editor.php:183
+#: admin/views/pin-pb-admin-editor.php:253
+msgid "Bottom of Pin"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:286
+msgid "Bottom To Top"
+msgstr ""
+
+#: admin/views/html-accessories-product.php:5
+#: includes/incls/nasa_03_functions_woo.php:1168
+msgid "Bought Together"
+msgstr ""
+
+#: admin/views/html-accessories-product.php:26
+msgid ""
+"Bought Together are suggested products purchased with the current product. "
+"Note: Only use for Simple product"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:270
+#: includes/widgets_elementor/nasa_02_carousel_2.php:251
+#: includes/widgets_elementor/nasa_03_banners.php:127
+#: includes/widgets_elementor/nasa_03_banners_2.php:108
+msgid "bounceIn"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:271
+#: includes/widgets_elementor/nasa_02_carousel_2.php:252
+#: includes/widgets_elementor/nasa_03_banners.php:128
+#: includes/widgets_elementor/nasa_03_banners_2.php:109
+msgid "bounceInDown"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:272
+#: includes/widgets_elementor/nasa_02_carousel_2.php:253
+#: includes/widgets_elementor/nasa_03_banners.php:129
+#: includes/widgets_elementor/nasa_03_banners_2.php:110
+msgid "bounceInLeft"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:273
+#: includes/widgets_elementor/nasa_02_carousel_2.php:254
+#: includes/widgets_elementor/nasa_03_banners.php:130
+#: includes/widgets_elementor/nasa_03_banners_2.php:111
+msgid "bounceInRight"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:274
+#: includes/widgets_elementor/nasa_02_carousel_2.php:255
+#: includes/widgets_elementor/nasa_03_banners.php:131
+#: includes/widgets_elementor/nasa_03_banners_2.php:112
+msgid "bounceInUp"
+msgstr ""
+
+#: includes/widgets/nasa_01_wg_product_brands.php:63
+msgid "Brand Order"
+msgstr ""
+
+#: includes/incls/nasa_10_wc_brand.php:172
+msgid "Brand: "
+msgstr ""
+
+#: includes/incls/nasa_10_wc_brand.php:141
+msgid "Brand:&nbsp;&nbsp;"
+msgstr ""
+
+#: includes/shortcodes/nasa_11_brands.php:52
+msgid "Brands"
+msgstr ""
+
+#: includes/incls/nasa_10_wc_brand.php:141
+msgid "Brands:&nbsp;&nbsp;"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:484
+msgid "Breadcrumb"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:500
+msgid "Breadcrumb Type"
+msgstr ""
+
+#: admin/views/product_category/background_breadcrumb_create.php:2
+#: admin/views/product_category/background_breadcrumb_edit.php:7
+msgid "Breadcrumb type"
+msgstr ""
+
+#: admin/views/product_category/cat_header_footer_type.php:170
+msgid "Buil-in Mobile"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:572
+#: admin/views/product_category/cat_header_footer_type.php:128
+#: admin/views/product_category/cat_header_footer_type.php:297
+msgid "Build-in"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:603
+#: admin/views/product_category/cat_header_footer_type.php:153
+#: admin/views/product_category/cat_header_footer_type.php:317
+msgid "Build-in Dark"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:600
+#: admin/views/product_category/cat_header_footer_type.php:150
+#: admin/views/product_category/cat_header_footer_type.php:314
+msgid "Build-in Light 1"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:601
+#: admin/views/product_category/cat_header_footer_type.php:151
+#: admin/views/product_category/cat_header_footer_type.php:315
+msgid "Build-in Light 2"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:602
+#: admin/views/product_category/cat_header_footer_type.php:152
+#: admin/views/product_category/cat_header_footer_type.php:316
+msgid "Build-in Light 3"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:615
+#: admin/views/product_category/cat_header_footer_type.php:329
+msgid "Build-in Mobile"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:573
+#: admin/views/product_category/cat_header_footer_type.php:129
+#: admin/views/product_category/cat_header_footer_type.php:298
+msgid "Builder"
+msgstr ""
+
+#: admin/incls/nasa_05_wc_product_data_fields.php:223
+msgid "Bulk Discount"
+msgstr ""
+
+#: admin/views/bulk-dsct.php:10
+msgid "Bulk Discount Rules"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:472
+msgid "Bulk Discounts"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:473
+msgid "Bulk Discounts Product"
+msgstr ""
+
+#: includes/shortcodes/nasa_02_carousel.php:114
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:52
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:45
+#: includes/widgets_elementor/nasa_02_carousel.php:52
+#: includes/widgets_elementor/nasa_02_carousel_2.php:52
+msgid "Bullets"
+msgstr ""
+
+#: includes/shortcodes/nasa_02_carousel.php:135
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:70
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:63
+#: includes/widgets_elementor/nasa_02_carousel.php:70
+#: includes/widgets_elementor/nasa_02_carousel_2.php:70
+msgid "Bullets Align"
+msgstr ""
+
+#: includes/shortcodes/nasa_02_carousel.php:124
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:59
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:52
+#: includes/widgets_elementor/nasa_02_carousel.php:59
+#: includes/widgets_elementor/nasa_02_carousel_2.php:59
+msgid "Bullets Postition"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_4_product_deal.php:155
+#: includes/widgets_elementor/nasa_01_4_product_deal.php:33
+msgid "Button Store"
+msgstr ""
+
+#: includes/shortcodes/nasa_09_search.php:66
+msgid "Button text"
+msgstr ""
+
+#: layouts/products/nasa_single_product/nasa-single-product-bulk-discount.php:119
+msgid "BUY&nbsp;"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:515
+#: includes/widgets_elementor/nasa_17_others.php:139
+msgid "Buzz"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:901
+msgid "Cache Empty!"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:866
+msgid "Cache Files"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:874
+msgid "Cache Mode"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:885
+msgid "Cache Shortcodes (Apply with Cache Files)"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:892
+msgid "Cache Variable Loop Products (Apply with Cache Files)"
+msgstr ""
+
+#: admin/incls/nasa_07_wc_attr_ux_admin.php:324
+msgid "Cancel"
+msgstr ""
+
+#: includes/shortcodes/nasa_11_brands.php:64
+msgid "Carousel"
+msgstr ""
+
+#: includes/shortcodes/nasa_08_post.php:308
+msgid "Categories"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_08_post.php:101
+msgid ""
+"Categories (Input categories slug Divide with \",\" Ex: slug-1, slug-2 ...)"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_6_product_categories.php:178
+msgid "Categories Included List"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_6_product_categories.php:27
+msgid ""
+"Categories Included List (ID or Slug, separated by \",\". Ex: 1, 2 or slug-1,"
+" slug-2)"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_6_product_categories.php:187
+#: includes/widgets_elementor/nasa_01_6_product_categories.php:33
+msgid "Categories number for display"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:922
+msgid "CDN CNAME."
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:915
+msgid "CDN Images Site"
+msgstr ""
+
+#: includes/shortcodes/nasa_02_carousel.php:107
+#: includes/shortcodes/nasa_02_carousel.php:139
+#: includes/shortcodes/nasa_03_banners.php:155
+#: includes/shortcodes/nasa_03_banners.php:191
+#: includes/shortcodes/nasa_03_banners_2.php:137
+#: includes/shortcodes/nasa_03_banners_2.php:173
+#: includes/shortcodes/nasa_07_compare_imgs.php:132
+#: includes/shortcodes/nasa_16_title.php:160
+#: includes/shortcodes/nasa_17_others.php:591
+#: includes/shortcodes/nasa_17_others.php:793
+#: includes/shortcodes/nasa_17_others.php:861
+#: includes/shortcodes/nasa_17_others.php:954
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:43
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:37
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:72
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:30
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:65
+#: includes/widgets_elementor/nasa_02_carousel.php:37
+#: includes/widgets_elementor/nasa_02_carousel.php:72
+#: includes/widgets_elementor/nasa_02_carousel.php:197
+#: includes/widgets_elementor/nasa_02_carousel.php:225
+#: includes/widgets_elementor/nasa_02_carousel_2.php:37
+#: includes/widgets_elementor/nasa_02_carousel_2.php:72
+#: includes/widgets_elementor/nasa_02_carousel_2.php:185
+#: includes/widgets_elementor/nasa_02_carousel_2.php:213
+#: includes/widgets_elementor/nasa_03_banners.php:54
+#: includes/widgets_elementor/nasa_03_banners.php:82
+#: includes/widgets_elementor/nasa_03_banners_2.php:42
+#: includes/widgets_elementor/nasa_03_banners_2.php:70
+#: includes/widgets_elementor/nasa_07_compare_imgs.php:41
+#: includes/widgets_elementor/nasa_17_others.php:43
+#: includes/widgets_elementor/nasa_17_others.php:206
+msgid "Center"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:591
+msgid "Change Time Delay (s)"
+msgstr ""
+
+#: admin/incls/nasa_08_wc_admin_taxonomy.php:284
+#: admin/incls/nasa_08_wc_admin_taxonomy.php:381
+#: admin/incls/nasa_09_wc_admin_brand.php:296
+#: admin/incls/nasa_09_wc_admin_brand.php:393
+#: includes/incls/nasa_05_custom_widgets.php:292
+#: includes/widgets_elementor/nasa_02_carousel.php:513
+#: includes/widgets_elementor/nasa_02_carousel_2.php:494
+#: admin/views/product_category/background_breadcrumb_create.php:82
+#: admin/views/product_category/background_breadcrumb_create.php:130
+#: admin/views/product_category/background_breadcrumb_edit.php:106
+#: admin/views/product_category/background_breadcrumb_edit.php:154
+#: admin/views/product_category/logo_create.php:106
+#: admin/views/product_category/logo_create.php:152
+#: admin/views/product_category/logo_create.php:198
+#: admin/views/product_category/logo_create.php:244
+#: admin/views/product_category/logo_edit.php:132
+#: admin/views/product_category/logo_edit.php:178
+#: admin/views/product_category/logo_edit.php:224
+#: admin/views/product_category/logo_edit.php:270
+msgid "Choose an image"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:266
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:58
+msgid "Classic 2D"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:57
+msgid "Classic 2D - Background - Gray"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:263
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:54
+msgid "Classic 2D - No Border"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:264
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:55
+msgid "Classic 2D - Radius"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:265
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:56
+msgid "Classic 2D - Radius - Dash"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:267
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:59
+msgid "Classic 3D"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:214
+msgid "Classic layout (Sidebar - Columns)"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:901
+msgid "Clear Cache"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:901
+msgid "Clear Cache Success !"
+msgstr ""
+
+#: includes/incls/nasa_05_custom_widgets.php:328
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:412
+msgid "Click here to select Category ..."
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_4_product_deal.php:90
+msgid "Click here to select Deal ..."
+msgstr ""
+
+#: includes/incls/nasa_05_custom_widgets.php:362
+msgid "Click here to select Menu ..."
+msgstr ""
+
+#: includes/incls/nasa_05_custom_widgets.php:405
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:374
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:405
+msgid "Click here to select Pin..."
+msgstr ""
+
+#: includes/incls/nasa_05_custom_widgets.php:443
+msgid "Click here to select Revolution Slider..."
+msgstr ""
+
+#: includes/incls/nasa_03_functions_woo.php:627
+#: includes/incls/nasa_03_functions_woo.php:1114
+msgid "Close"
+msgstr ""
+
+#: abstracts/nasa_00_abstract_wc_attr_ux.php:26
+#: admin/incls/nasa_07_wc_attr_ux_admin.php:334
+msgid "Color"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:136
+msgid "Color Attribute Style - Only use for Single or Quickview"
+msgstr ""
+
+#: includes/shortcodes/nasa_16_title.php:109
+#: includes/shortcodes/nasa_17_others.php:742
+msgid "Color title"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:362
+#: includes/shortcodes/nasa_01_2_products_viewed.php:117
+#: includes/shortcodes/nasa_01_4_products_special_deal.php:195
+#: includes/shortcodes/nasa_01_6_product_categories.php:247
+#: includes/shortcodes/nasa_01_9_products_by_ids.php:127
+#: includes/shortcodes/nasa_02_carousel.php:157
+#: includes/shortcodes/nasa_08_post.php:248
+#: includes/shortcodes/nasa_11_brands.php:99
+#: includes/widgets_elementor/nasa_01_1_products.php:140
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:200
+#: includes/widgets_elementor/nasa_01_4_products_special_deal.php:63
+#: includes/widgets_elementor/nasa_01_6_product_categories.php:75
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:88
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:81
+#: includes/widgets_elementor/nasa_01_9_products_by_ids.php:37
+#: includes/widgets_elementor/nasa_02_carousel.php:88
+#: includes/widgets_elementor/nasa_02_carousel_2.php:88
+#: includes/widgets_elementor/nasa_08_post.php:73
+msgid "Columns Number"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:388
+#: includes/shortcodes/nasa_01_1_products.php:401
+#: includes/shortcodes/nasa_01_2_products_viewed.php:125
+#: includes/shortcodes/nasa_01_4_products_special_deal.php:211
+#: includes/shortcodes/nasa_01_6_product_categories.php:267
+#: includes/shortcodes/nasa_01_9_products_by_ids.php:135
+#: includes/shortcodes/nasa_01_9_products_by_ids.php:148
+#: includes/shortcodes/nasa_02_carousel.php:164
+#: includes/shortcodes/nasa_08_post.php:263
+#: includes/shortcodes/nasa_08_post.php:278
+#: includes/shortcodes/nasa_11_brands.php:113
+#: includes/widgets_elementor/nasa_01_1_products.php:147
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:207
+#: includes/widgets_elementor/nasa_01_4_products_special_deal.php:70
+#: includes/widgets_elementor/nasa_01_6_product_categories.php:82
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:95
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:88
+#: includes/widgets_elementor/nasa_01_9_products_by_ids.php:44
+#: includes/widgets_elementor/nasa_02_carousel.php:95
+#: includes/widgets_elementor/nasa_02_carousel_2.php:95
+#: includes/widgets_elementor/nasa_08_post.php:80
+msgid "Columns Number Small"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_1_products.php:154
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:214
+#: includes/widgets_elementor/nasa_01_9_products_by_ids.php:51
+msgid "Columns Number Small for Carousle"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_08_post.php:87
+msgid "Columns Number Small for Slider"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:375
+#: includes/shortcodes/nasa_01_2_products_viewed.php:133
+#: includes/shortcodes/nasa_01_4_products_special_deal.php:227
+#: includes/shortcodes/nasa_01_6_product_categories.php:287
+#: includes/shortcodes/nasa_01_9_products_by_ids.php:161
+#: includes/shortcodes/nasa_02_carousel.php:171
+#: includes/shortcodes/nasa_08_post.php:293
+#: includes/shortcodes/nasa_11_brands.php:106
+#: includes/widgets_elementor/nasa_01_1_products.php:161
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:221
+#: includes/widgets_elementor/nasa_01_4_products_special_deal.php:77
+#: includes/widgets_elementor/nasa_01_6_product_categories.php:89
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:102
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:95
+#: includes/widgets_elementor/nasa_01_9_products_by_ids.php:58
+#: includes/widgets_elementor/nasa_02_carousel.php:102
+#: includes/widgets_elementor/nasa_02_carousel_2.php:102
+#: includes/widgets_elementor/nasa_08_post.php:94
+msgid "Columns Number Tablet"
+msgstr ""
+
+#: layouts/coming-soon/coming-soon.php:27
+msgid "Coming Soon"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:974
+msgid "Coming Soon Image"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:967
+msgid "Coming Soon Info"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:981
+msgid "Coming Soon Time"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:960
+msgid "Coming Soon Tittle"
+msgstr ""
+
+#: layouts/products/globals/product-buttons.php:33
+#: layouts/products/globals/product-buttons.php:38
+msgid "Compare"
+msgstr ""
+
+#: includes/shortcodes/nasa_07_compare_imgs.php:100
+msgid "Compare images."
+msgstr ""
+
+#: includes/shortcodes/nasa_07_compare_imgs.php:97
+msgid "Compare IMGS"
+msgstr ""
+
+#: admin/views/import-demo-data.php:205
+msgid ""
+"COMPLETE - Please go to Dashboard > Settings > Permalinks to Re-built "
+"Permalinks your site."
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:617
+msgid "Contact info"
+msgstr ""
+
+#: includes/shortcodes/nasa_03_banners.php:143
+#: includes/shortcodes/nasa_03_banners_2.php:125
+#: includes/widgets_elementor/nasa_02_carousel.php:188
+#: includes/widgets_elementor/nasa_02_carousel_2.php:176
+#: includes/widgets_elementor/nasa_03_banners.php:45
+#: includes/widgets_elementor/nasa_03_banners_2.php:33
+msgid "Content Width (%)"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:828
+msgid "Countdown Time"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:831
+msgid "Create Countdown time."
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:911
+msgid "Create image."
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:620
+msgid "Create info contact, introduce."
+msgstr ""
+
+#: includes/shortcodes/nasa_12_instagram_feed.php:97
+msgid "Create info Instagram."
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:663
+msgid "Create info opening time of shop."
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:456
+msgid "Create sevice box."
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:720
+msgid "Create text link custom."
+msgstr ""
+
+#: includes/shortcodes/nasa_16_title.php:96
+msgid "Create title of section."
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:337
+msgid "Custom add more class name for header page"
+msgstr ""
+
+#: admin/incls/nasa_05_wc_product_data_fields.php:100
+msgid "Custom Badge"
+msgstr ""
+
+#: admin/incls/nasa_03_mega_menu.php:605
+msgid "Custom Class"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:212 admin/incls/nasa_02_metabox.php:265
+#: admin/views/product_category/font_style.php:22
+#: admin/views/product_category/font_style.php:207
+msgid "Custom Font"
+msgstr ""
+
+#: includes/shortcodes/nasa_11_brands.php:93
+msgid "Custom links"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:74
+msgid "Custom width this page"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:999
+msgid "Customer Name"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:992
+msgid "Customer Says"
+msgstr ""
+
+#: layouts/script_tmpl/nasa-single-product-custom-fields.php:35
+msgid "Customize this item?"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:413
+#: admin/incls/nasa_04_custom_setting.php:424
+msgid "Dark"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:96
+#: admin/views/product_category/cat_bg_dark.php:18
+#: admin/views/product_category/cat_bg_dark.php:34
+msgid "Dark Version"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_17_others.php:25
+msgid "Date (Format: YYYY-mm-dd HH:mm:ss | YYYY/mm/dd HH:mm:ss)"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:858
+msgid "Date align"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_17_others.php:41
+msgid "Date align (with Style: Text)"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:837
+msgid "Date text"
+msgstr ""
+
+#: includes/shortcodes/nasa_08_post.php:329
+#: includes/widgets_elementor/nasa_08_post.php:135
+msgid "Date/Author/Readmore position with description"
+msgstr ""
+
+#: nasa-autoloader.php:194
+msgid "Day"
+msgstr ""
+
+#: layouts/coming-soon/coming-soon.php:222
+msgid "day"
+msgstr ""
+
+#: nasa-autoloader.php:187
+msgid "Days"
+msgstr ""
+
+#: layouts/coming-soon/coming-soon.php:215
+msgid "days"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_4_products_special_deal.php:147
+#: includes/widgets_elementor/nasa_01_4_products_special_deal.php:38
+msgid "Deal Before Time"
+msgstr ""
+
+#: layouts/products/nasa_products_deal/product_special_deal_multi-2.php:23
+msgid "Deal of the Day"
+msgstr ""
+
+#: layouts/products/nasa_products/carousel.php:93
+msgid "Deals"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_6_product_groups.php:277
+#: includes/widgets_elementor/nasa_01_6_product_groups.php:45
+msgid "Deep Levels"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:17 admin/incls/nasa_00_functions.php:43
+#: admin/incls/nasa_00_functions.php:69 admin/incls/nasa_00_functions.php:87
+#: admin/incls/nasa_00_functions.php:113 admin/incls/nasa_00_functions.php:174
+#: admin/incls/nasa_00_functions.php:212 admin/incls/nasa_00_functions.php:262
+#: admin/incls/nasa_00_functions.php:281 admin/incls/nasa_02_metabox.php:46
+#: admin/incls/nasa_02_metabox.php:56 admin/incls/nasa_02_metabox.php:78
+#: admin/incls/nasa_02_metabox.php:100 admin/incls/nasa_02_metabox.php:189
+#: admin/incls/nasa_02_metabox.php:288 admin/incls/nasa_02_metabox.php:306
+#: admin/incls/nasa_02_metabox.php:327 admin/incls/nasa_02_metabox.php:349
+#: admin/incls/nasa_02_metabox.php:372 admin/incls/nasa_02_metabox.php:386
+#: admin/incls/nasa_02_metabox.php:504 admin/incls/nasa_02_metabox.php:571
+#: includes/shortcodes/nasa_01_7_pin_products_banner.php:303
+#: includes/shortcodes/nasa_01_8_pin_material_banner.php:170
+#: includes/shortcodes/nasa_17_others.php:491
+#: includes/shortcodes/nasa_17_others.php:808
+#: includes/shortcodes/nasa_17_others.php:934
+#: includes/shortcodes/nasa_17_others.php:952
+#: includes/widgets_elementor/nasa_01_7_pin_material_banner.php:30
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:172
+#: includes/widgets_elementor/nasa_01_7_pin_products_banner.php:68
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:203
+#: includes/widgets_elementor/nasa_17_others.php:115
+#: includes/widgets_elementor/nasa_17_others.php:188
+#: includes/widgets_elementor/nasa_17_others.php:204
+#: admin/views/product_category/attr_color_style.php:3
+#: admin/views/product_category/attr_image_style.php:3
+#: admin/views/product_category/attr_label_style.php:3
+#: admin/views/product_category/background_breadcrumb_create.php:5
+#: admin/views/product_category/background_breadcrumb_edit.php:11
+#: admin/views/product_category/cat_bg_dark.php:3
+#: admin/views/product_category/cat_header_footer_type.php:72
+#: admin/views/product_category/cat_header_footer_type.php:127
+#: admin/views/product_category/cat_header_footer_type.php:256
+#: admin/views/product_category/cat_header_footer_type.php:296
+#: admin/views/product_category/custom_tax.php:3
+#: admin/views/product_category/font_style.php:21
+#: admin/views/product_category/font_style.php:206
+#: admin/views/product_category/logo_create.php:7
+#: admin/views/product_category/logo_edit.php:27
+#: admin/views/product_category/loop_layout_buttons.php:3
+msgid "Default"
+msgstr ""
+
+#: admin/views/product_category/attr_image_single_style.php:3
+msgid "Default - Theme Options"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:79
+msgid "Default Attributies With Type Select, Custom in Grid"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:211
+msgid "Default Font"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:671
+msgid "Default is \"nasa_product_cat\", please input your custom slug."
+msgstr ""
+
+#: admin/incls/nasa_05_wc_product_data_fields.php:123
+msgid "Default is 800x800. (Width x Height)"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:341
+#: includes/widgets_elementor/nasa_01_1_products.php:134
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:194
+msgid "Delay Time (s)"
+msgstr ""
+
+#: admin/views/media-multi-images.php:30 admin/views/media-multi-images.php:50
+#: admin/views/variation-admin-gallery-images.php:32
+#: admin/views/variation-admin-gallery-images.php:52
+msgid "Delete"
+msgstr ""
+
+#: admin/views/media-multi-images.php:49
+#: admin/views/variation-admin-gallery-images.php:51
+msgid "Delete image"
+msgstr ""
+
+#: layouts/products/nasa_single_product/nasa-single-product-popup-nodes.php:32
+msgid "Delivery &#38; Return"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:226
+msgid "Delivery &#38; Return - Single Product Page"
+msgstr ""
+
+#: admin/views/import-demo-data.php:215
+msgid ""
+"Demo data was imported. If you want import demo data again, You should need "
+"reset data of your site."
+msgstr ""
+
+#: includes/shortcodes/nasa_07_compare_imgs.php:122
+#: includes/shortcodes/nasa_08_post.php:163
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:35
+#: includes/widgets_elementor/nasa_07_compare_imgs.php:33
+#: includes/widgets_elementor/nasa_08_post.php:27
+msgid "Description"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_4_products_special_deal.php:51
+msgid "Description for Deal Before Time"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:330
+msgid "Desktop Columns"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:849
+#: includes/widgets_elementor/nasa_17_others.php:33
+msgid "Digital"
+msgstr ""
+
+#: admin/views/product_category/custom_tax.php:5
+msgid "Disable"
+msgstr ""
+
+#: admin/views/bulk-dsct.php:29 admin/views/bulk-dsct.php:63
+msgid "Discount"
+msgstr ""
+
+#: admin/incls/nasa_05_wc_product_data_fields.php:239
+#: admin/incls/nasa_05_wc_product_data_fields.php:288
+msgid "Discount Type"
+msgstr ""
+
+#: layouts/products/nasa_single_product/nasa-single-product-bulk-discount.php:67
+#, php-format
+msgid "Discount&nbsp;%s&#37;"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_3_products_main_extra.php:88
+msgid "Display 1 main and 4 extra products."
+msgstr ""
+
+#: includes/shortcodes/nasa_03_banners.php:111
+#: includes/widgets_elementor/nasa_03_banners.php:14
+msgid "Display Banner"
+msgstr ""
+
+#: includes/shortcodes/nasa_03_banners_2.php:107
+#: includes/widgets_elementor/nasa_03_banners_2.php:14
+msgid "Display Banner v2"
+msgstr ""
+
+#: includes/shortcodes/nasa_11_brands.php:55
+msgid "Display brands logo"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_6_product_categories.php:167
+msgid "Display categories as images slide."
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:338
+msgid "Display Follow icon social."
+msgstr ""
+
+#: includes/shortcodes/nasa_09_search.php:53
+msgid "Display form search."
+msgstr ""
+
+#: includes/shortcodes/nasa_01_8_pin_material_banner.php:153
+msgid "Display material pin banner."
+msgstr ""
+
+#: includes/shortcodes/nasa_06_menu_vertical.php:59
+msgid "Display menu is vertical format."
+msgstr ""
+
+#: includes/shortcodes/nasa_05_menu_root.php:52
+msgid "Display Menu Level Root."
+msgstr ""
+
+#: admin/views/pin-mb-admin-editor.php:178
+#: admin/views/pin-pb-admin-editor.php:248
+msgid "Display Position"
+msgstr ""
+
+#: includes/shortcodes/nasa_08_post.php:150
+msgid "Display Post - Blogs."
+msgstr ""
+
+#: includes/widgets/nasa_01_wg_product_brands.php:49
+msgid "Display product brands with Accordion."
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:145
+#: includes/shortcodes/nasa_01_2_products_viewed.php:105
+msgid "Display products as many format."
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products_masonry.php:120
+msgid "Display products as masonry layout."
+msgstr ""
+
+#: includes/shortcodes/nasa_01_9_products_by_ids.php:101
+msgid "Display products by ids."
+msgstr ""
+
+#: includes/shortcodes/nasa_01_4_products_special_deal.php:120
+msgid "Display products deal."
+msgstr ""
+
+#: includes/shortcodes/nasa_01_7_pin_products_banner.php:216
+msgid "Display products pin banner."
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:311
+msgid "Display share icon social."
+msgstr ""
+
+#: includes/shortcodes/nasa_04_menu_mega.php:57
+msgid "Display shortcode mega menu."
+msgstr ""
+
+#: includes/shortcodes/nasa_14_static_block.php:76
+msgid "Display shortcode static block."
+msgstr ""
+
+#: includes/shortcodes/nasa_02_carousel.php:91
+msgid "Display slider (images, products, ...)"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_5_product_tags.php:70
+msgid "Display tags cloud (product tag, product categories)."
+msgstr ""
+
+#: includes/shortcodes/nasa_15_team_members.php:85
+msgid "Display team members project."
+msgstr ""
+
+#: includes/shortcodes/nasa_01_6_product_categories.php:194
+#: includes/shortcodes/nasa_12_instagram_feed.php:129
+#: includes/widgets_elementor/nasa_12_instagram_feed.php:44
+msgid "Display type"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:21
+msgid "Displays Carousel Pin Material Banner"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:14
+msgid "Displays Carousel Shortcode Nasa Pin Products Banner"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_07_compare_imgs.php:14
+msgid "Displays Compare IMGS"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_17_others.php:18
+msgid "Displays Countdown Time"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_17_others.php:248
+msgid "Displays Header Icons"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_17_others.php:167
+msgid "Displays Image"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_13_share_follow.php:51
+msgid "Displays Nasa Follow"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_12_instagram_feed.php:14
+msgid "Displays Nasa Instagram Feed"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_13_share_follow.php:18
+msgid "Displays Nasa Share"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_08_post.php:14
+msgid "Displays Post Blogs"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_6_product_groups.php:14
+msgid "Displays Product Groups"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_9_products_by_ids.php:14
+msgid "Displays Products By Ids"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_18_rev_slider.php:14
+msgid "Displays Revolution Slider"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_17_others.php:82
+msgid "Displays Service Box"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_05_menu_root.php:14
+msgid "Displays Shortcode Nasa Menu Root Level"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_06_menu_vertical.php:14
+msgid "Displays Shortcode Nasa Menu Vertical"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_7_pin_material_banner.php:14
+msgid "Displays Shortcode Nasa Pin Material Banner"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_7_pin_products_banner.php:14
+msgid "Displays Shortcode Nasa Pin Products Banner"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_6_product_categories.php:14
+msgid "Displays Shortcode Nasa Product Categories"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_4_product_deal.php:14
+msgid "Displays Shortcode Nasa Product Deal"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_1_products.php:14
+msgid "Displays Shortcode Nasa Products"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_1_products_masonry.php:14
+msgid "Displays Shortcode Nasa Products Masonry"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_4_products_special_deal.php:14
+msgid "Displays Shortcode Nasa Products Special Deal"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:21
+msgid "Displays Shortcode Nasa Products Tabs"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:21
+msgid "Displays Shortcode Nasa Sliders with Banner"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel_2.php:21
+msgid "Displays Shortcode Nasa Sliders with Banner v2"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:180
+msgid "Don't show"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:305
+#: includes/shortcodes/nasa_08_post.php:201
+#: includes/widgets_elementor/nasa_08_post.php:60
+msgid "Dots"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_1_products.php:114
+msgid "Dots (Only use for Style is Carousel or Simple Slide 2)"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:174
+msgid "Dots (Only use for Style is Carousel)"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:226
+msgid "Double images"
+msgstr ""
+
+#: admin/metabox/helpers/cmb_Meta_Box_types.php:711
+#: admin/metabox/helpers/cmb_Meta_Box_types.php:772
+msgid "Download"
+msgstr ""
+
+#: includes/incls/nasa_09_wc_taxonomy.php:78
+#: includes/incls/nasa_10_wc_brand.php:93
+#: post_type/incls/nasa_04_pin_products_banner.php:12
+#: post_type/incls/nasa_05_pin_material_banner.php:12
+msgid "Edit"
+msgstr ""
+
+#: post_type/incls/nasa_03_block.php:12
+msgid "Edit Block"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:65
+msgid "Edit Categories"
+msgstr ""
+
+#: post_type/incls/nasa_01_footer.php:12
+msgid "Edit Footer"
+msgstr ""
+
+#: post_type/incls/nasa_00_header.php:12
+msgid "Edit Header"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:17
+msgid "Edit Project"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:52
+msgid "Edit Tags"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:246
+#: includes/widgets_elementor/nasa_03_banners.php:103
+#: includes/widgets_elementor/nasa_03_banners_2.php:84
+msgid "Effect Banner Content"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:298
+#: includes/widgets_elementor/nasa_03_banners.php:157
+msgid "Effect Banner Hover"
+msgstr ""
+
+#: includes/shortcodes/nasa_03_banners.php:216
+#: includes/shortcodes/nasa_03_banners_2.php:186
+#: includes/widgets_elementor/nasa_02_carousel_2.php:227
+msgid "Effect Content"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_7_pin_products_banner.php:300
+#: includes/shortcodes/nasa_01_8_pin_material_banner.php:167
+#: includes/widgets_elementor/nasa_01_7_pin_material_banner.php:28
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:170
+#: includes/widgets_elementor/nasa_01_7_pin_products_banner.php:66
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:201
+msgid "Effect icons"
+msgstr ""
+
+#: includes/shortcodes/nasa_03_banners.php:242
+#: includes/shortcodes/nasa_03_banners_2.php:212
+#: includes/widgets_elementor/nasa_02_carousel_2.php:279
+#: includes/widgets_elementor/nasa_03_banners_2.php:138
+msgid "Effect Image"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:930
+msgid "Effect Pin Space (Pin Banner)"
+msgstr ""
+
+#: admin/views/import-demo-data.php:32
+msgid "Elementor - Homes"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:576 admin/incls/nasa_02_metabox.php:640
+#: admin/views/product_category/cat_header_footer_type.php:132
+#: admin/views/product_category/cat_header_footer_type.php:301
+msgid "Elementor Builder"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:649
+msgid "Elementor Builder - Mobile"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:730
+#: includes/shortcodes/nasa_13_share_follow.php:365
+#: includes/shortcodes/nasa_17_others.php:286
+#: includes/shortcodes/nasa_17_others.php:637
+#: includes/widgets_elementor/nasa_13_share_follow.php:82
+msgid "Email"
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:124
+msgid "Email to your friends"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:762
+msgid "Email URL"
+msgstr ""
+
+#: includes/shortcodes/nasa_15_team_members.php:67
+msgid "Email:"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:435
+#: admin/incls/nasa_04_custom_setting.php:478
+#: admin/incls/nasa_04_custom_setting.php:492
+#: admin/incls/nasa_04_custom_setting.php:542
+#: admin/incls/nasa_04_custom_setting.php:570
+#: admin/incls/nasa_04_custom_setting.php:624
+#: admin/incls/nasa_04_custom_setting.php:660
+#: admin/views/product_category/custom_tax.php:4
+msgid "Enable"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:675
+msgid "Enable in Archive Products"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:859
+msgid "Enable Mobile Layout"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:316
+msgid "Enable Recommend Products"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:58
+msgid "Enable UX Variations (Color - Label (Size) - Image Swatches)"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_4_products_special_deal.php:181
+msgid "End date show deals (yyyy-mm-dd | yyyy/mm/dd)"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_4_products_special_deal.php:57
+msgid "End date show deals (yyyy-mm-dd | yyyy/mm/dd) for Deal Before Time"
+msgstr ""
+
+#: admin/incls/nasa_05_wc_product_data_fields.php:113
+msgid "Enter a Youtube or Vimeo Url of the product video here."
+msgstr ""
+
+#: admin/incls/nasa_05_wc_product_data_fields.php:104
+msgid "Enter badge label (NEW, HOT etc...)."
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:476
+msgid ""
+"Enter icon class name. Support FontAwesome, Font Pe 7 Stroke (https://themes-"
+"pixeden.com/font-demos/7-stroke/), Font Nasa (https://elessi.nasatheme."
+"com/wp-content/themes/elessi-theme/assets/font-nasa/icons-reference.html)"
+msgstr ""
+
+#: includes/shortcodes/nasa_15_team_members.php:112
+msgid "Enter image size. Example in pixels: 200x100 (Width x Height)."
+msgstr ""
+
+#: includes/shortcodes/nasa_11_brands.php:95
+msgid "Enter links for each slide here. Divide links with linebreaks (Enter)."
+msgstr ""
+
+#: layouts/script_tmpl/nasa-single-product-custom-fields.php:105
+msgid "Enter personalized text"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:531
+#: admin/incls/nasa_04_custom_setting.php:901
+msgid "Error!"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:536
+#: admin/incls/nasa_04_custom_setting.php:537
+msgid "Estimated Delivery"
+msgstr ""
+
+#: includes/incls/nasa_03_functions_woo.php:1477
+msgid "Estimated Delivery:"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:536
+msgid "Ex: Customers say about us."
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:422
+#: includes/widgets_elementor/nasa_01_1_products.php:174
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:234
+msgid "Excludes Product Ids"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:900
+msgid "Expire Time (Seconds - Expire time live file.)"
+msgstr ""
+
+#: admin/views/product_category/attr_image_single_style.php:4
+msgid "Extends from Attribule Image Style"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:614
+#: admin/views/product_category/cat_header_footer_type.php:169
+#: admin/views/product_category/cat_header_footer_type.php:328
+msgid "Extends from Desktop"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:130
+msgid "Extends from Image Attribute Style - All"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_6_product_categories.php:331
+#: includes/shortcodes/nasa_01_7_pin_products_banner.php:333
+#: includes/shortcodes/nasa_01_8_pin_material_banner.php:200
+#: includes/shortcodes/nasa_03_banners.php:276
+#: includes/shortcodes/nasa_03_banners_2.php:246
+#: includes/shortcodes/nasa_04_menu_mega.php:75
+#: includes/shortcodes/nasa_05_menu_root.php:70
+#: includes/shortcodes/nasa_06_menu_vertical.php:90
+#: includes/shortcodes/nasa_12_instagram_feed.php:200
+#: includes/shortcodes/nasa_14_static_block.php:93
+#: includes/shortcodes/nasa_15_team_members.php:122
+#: includes/shortcodes/nasa_17_others.php:649
+msgid "Extra Class"
+msgstr ""
+
+#: includes/shortcodes/nasa_07_compare_imgs.php:157
+#: includes/widgets_elementor/nasa_07_compare_imgs.php:62
+msgid "Extra class for Images"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_12_instagram_feed.php:89
+msgid "Extra Class Image"
+msgstr ""
+
+#: includes/shortcodes/nasa_12_instagram_feed.php:194
+msgid "Extra Class images"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:430
+#: includes/shortcodes/nasa_01_1_products_masonry.php:175
+#: includes/shortcodes/nasa_01_2_products_viewed.php:164
+#: includes/shortcodes/nasa_01_3_products_main_extra.php:135
+#: includes/shortcodes/nasa_01_4_products_special_deal.php:284
+#: includes/shortcodes/nasa_01_4_product_deal.php:183
+#: includes/shortcodes/nasa_01_5_product_tags.php:100
+#: includes/shortcodes/nasa_01_6_product_groups.php:304
+#: includes/shortcodes/nasa_01_9_products_by_ids.php:170
+#: includes/shortcodes/nasa_02_carousel.php:229
+#: includes/shortcodes/nasa_07_compare_imgs.php:164
+#: includes/shortcodes/nasa_08_post.php:428
+#: includes/shortcodes/nasa_11_brands.php:121
+#: includes/shortcodes/nasa_13_share_follow.php:323
+#: includes/shortcodes/nasa_13_share_follow.php:415
+#: includes/shortcodes/nasa_16_title.php:196
+#: includes/shortcodes/nasa_17_others.php:521
+#: includes/shortcodes/nasa_17_others.php:605
+#: includes/shortcodes/nasa_17_others.php:705
+#: includes/shortcodes/nasa_17_others.php:816
+#: includes/shortcodes/nasa_17_others.php:895
+#: includes/shortcodes/nasa_17_others.php:971
+#: includes/shortcodes/nasa_17_others.php:1006
+#: includes/widgets_elementor/nasa_01_1_products.php:180
+#: includes/widgets_elementor/nasa_01_1_products_masonry.php:59
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:73
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:240
+#: includes/widgets_elementor/nasa_01_4_products_special_deal.php:105
+#: includes/widgets_elementor/nasa_01_4_product_deal.php:52
+#: includes/widgets_elementor/nasa_01_6_product_categories.php:110
+#: includes/widgets_elementor/nasa_01_6_product_groups.php:64
+#: includes/widgets_elementor/nasa_01_7_pin_material_banner.php:39
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:156
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:181
+#: includes/widgets_elementor/nasa_01_7_pin_products_banner.php:77
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:149
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:212
+#: includes/widgets_elementor/nasa_01_9_products_by_ids.php:65
+#: includes/widgets_elementor/nasa_02_carousel.php:156
+#: includes/widgets_elementor/nasa_02_carousel.php:324
+#: includes/widgets_elementor/nasa_02_carousel_2.php:156
+#: includes/widgets_elementor/nasa_02_carousel_2.php:305
+#: includes/widgets_elementor/nasa_03_banners.php:183
+#: includes/widgets_elementor/nasa_03_banners_2.php:164
+#: includes/widgets_elementor/nasa_05_menu_root.php:33
+#: includes/widgets_elementor/nasa_06_menu_vertical.php:43
+#: includes/widgets_elementor/nasa_07_compare_imgs.php:68
+#: includes/widgets_elementor/nasa_08_post.php:169
+#: includes/widgets_elementor/nasa_12_instagram_feed.php:95
+#: includes/widgets_elementor/nasa_13_share_follow.php:31
+#: includes/widgets_elementor/nasa_13_share_follow.php:142
+#: includes/widgets_elementor/nasa_17_others.php:62
+#: includes/widgets_elementor/nasa_17_others.php:147
+#: includes/widgets_elementor/nasa_17_others.php:224
+#: includes/widgets_elementor/nasa_17_others.php:274
+msgid "Extra class name"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:336
+msgid "Extra Class Name Header"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:724
+#: includes/shortcodes/nasa_13_share_follow.php:355
+#: includes/widgets_elementor/nasa_13_share_follow.php:70
+msgid "Facebook"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:741
+msgid "Facebook URL Follow"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:282
+#: includes/shortcodes/nasa_03_banners.php:248
+#: includes/shortcodes/nasa_03_banners_2.php:218
+#: includes/widgets_elementor/nasa_02_carousel.php:303
+#: includes/widgets_elementor/nasa_02_carousel_2.php:284
+#: includes/widgets_elementor/nasa_03_banners.php:162
+#: includes/widgets_elementor/nasa_03_banners_2.php:143
+msgid "Fade"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:249
+#: includes/widgets_elementor/nasa_02_carousel_2.php:230
+#: includes/widgets_elementor/nasa_03_banners.php:106
+#: includes/widgets_elementor/nasa_03_banners_2.php:87
+msgid "fadeIn"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:250
+#: includes/widgets_elementor/nasa_02_carousel_2.php:231
+#: includes/widgets_elementor/nasa_03_banners.php:107
+#: includes/widgets_elementor/nasa_03_banners_2.php:88
+msgid "fadeInDown"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:252
+#: includes/widgets_elementor/nasa_02_carousel_2.php:233
+#: includes/widgets_elementor/nasa_03_banners.php:109
+#: includes/widgets_elementor/nasa_03_banners_2.php:90
+msgid "fadeInLeft"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:253
+#: includes/widgets_elementor/nasa_02_carousel_2.php:234
+#: includes/widgets_elementor/nasa_03_banners.php:110
+#: includes/widgets_elementor/nasa_03_banners_2.php:91
+msgid "fadeInRight"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:251
+#: includes/widgets_elementor/nasa_02_carousel_2.php:232
+#: includes/widgets_elementor/nasa_03_banners.php:108
+#: includes/widgets_elementor/nasa_03_banners_2.php:89
+msgid "fadeInUp"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:486
+#: admin/incls/nasa_04_custom_setting.php:487
+msgid "Fake Sold"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:531
+msgid "Fake Sold is Empty!"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:564
+#: admin/incls/nasa_04_custom_setting.php:565
+msgid "Fake Viewing"
+msgstr ""
+
+#: layouts/products/nasa_products/carousel.php:81
+msgid "Featured"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:170
+#: includes/shortcodes/nasa_01_1_products_masonry.php:131
+#: includes/widgets_elementor/nasa_01_1_products.php:31
+#: includes/widgets_elementor/nasa_01_1_products_masonry.php:25
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:91
+msgid "Featured Products"
+msgstr ""
+
+#: admin/metabox/helpers/cmb_Meta_Box_types.php:711
+#: admin/metabox/helpers/cmb_Meta_Box_types.php:772
+msgid "File:"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:879
+msgid "Files - directory uploads / nasa-caches"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_6_product_groups.php:235
+msgid "Filter products by Product Groups."
+msgstr ""
+
+#: includes/shortcodes/nasa_01_6_product_groups.php:290
+#: includes/widgets_elementor/nasa_01_6_product_groups.php:52
+msgid "Filter Text"
+msgstr ""
+
+#: admin/views/pin-pb-admin-editor.php:244
+msgid "Find product"
+msgstr ""
+
+#: admin/incls/nasa_05_wc_product_data_fields.php:64
+msgid "Flat Discount"
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:390
+#: includes/widgets_elementor/nasa_13_share_follow.php:112
+msgid "Flickr"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:811
+msgid "Flickr URL Follow"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:285
+msgid "Flip Horizontal"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:258
+#: includes/widgets_elementor/nasa_02_carousel_2.php:239
+#: includes/widgets_elementor/nasa_03_banners.php:115
+#: includes/widgets_elementor/nasa_03_banners_2.php:96
+msgid "flipInX"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:259
+#: includes/widgets_elementor/nasa_02_carousel_2.php:240
+#: includes/widgets_elementor/nasa_03_banners.php:116
+#: includes/widgets_elementor/nasa_03_banners_2.php:97
+msgid "flipInY"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:514
+#: includes/widgets_elementor/nasa_17_others.php:138
+msgid "Fly"
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:335
+msgid "Follow"
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:292
+msgid "Follow us on Amazon"
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:201
+msgid "Follow us on Facebook"
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:257
+msgid "Follow us on Flickr"
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:229
+#: layouts/instagram/instagram_default.php:21
+#: layouts/instagram/instagram_slide.php:17
+#: layouts/instagram/instagram_zz.php:20
+msgid "Follow us on Instagram"
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:243
+msgid "Follow us on LinkedIn"
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:222
+msgid "Follow us on Pinterest"
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:271
+msgid "Follow us on Telegram"
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:264
+msgid "Follow us on Tumblr"
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:194
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:208
+msgid "Follow us on VK"
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:285
+msgid "Follow us on Weibo"
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:278
+msgid "Follow us on Whatsapp"
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:250
+msgid "Follow us on YouTube"
+msgstr ""
+
+#: includes/incls/nasa_11_wc_ct_fields_add_to_cart.php:173
+#: includes/incls/nasa_11_wc_ct_fields_add_to_cart.php:205
+#: layouts/script_tmpl/nasa-single-product-custom-fields.php:66
+msgid "Font Colour"
+msgstr ""
+
+#: includes/incls/nasa_11_wc_ct_fields_add_to_cart.php:181
+#: includes/incls/nasa_11_wc_ct_fields_add_to_cart.php:209
+#: layouts/script_tmpl/nasa-single-product-custom-fields.php:86
+msgid "Font Orientation"
+msgstr ""
+
+#: includes/shortcodes/nasa_16_title.php:182
+msgid "Font Size"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:877
+msgid "Font size"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_17_others.php:52
+msgid "Font size (with Style: Text)"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:200
+msgid "Font Style"
+msgstr ""
+
+#: includes/incls/nasa_11_wc_ct_fields_add_to_cart.php:165
+#: includes/incls/nasa_11_wc_ct_fields_add_to_cart.php:201
+#: layouts/script_tmpl/nasa-single-product-custom-fields.php:46
+msgid "Font Type"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:580 post_type/incls/nasa_01_footer.php:8
+#: post_type/incls/nasa_01_footer.php:9
+msgid "Footer"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:596
+msgid "Footer Build-in"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:610
+msgid "Footer Build-in Mobile"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:622 post_type/incls/nasa_01_footer.php:19
+msgid "Footer Builder"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:631
+msgid "Footer Builder Mobile"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:587
+msgid "Footer Mode"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:549
+msgid "From - Estimated Days"
+msgstr ""
+
+#: includes/shortcodes/nasa_16_title.php:140
+#: includes/shortcodes/nasa_17_others.php:555
+#: includes/shortcodes/nasa_17_others.php:773
+msgid "Full"
+msgstr ""
+
+#: admin/incls/nasa_03_mega_menu.php:531
+msgid "Full Width"
+msgstr ""
+
+#: admin/incls/nasa_05_wc_product_data_fields.php:214
+msgid "Gallery 360&#176; Viewer"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:163
+msgid "Gallery for Variation"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:67
+msgid "General"
+msgstr ""
+
+#: layouts/products/globals/product-buttons.php:45
+#: layouts/products/globals/product-buttons.php:50
+msgid "Gift"
+msgstr ""
+
+#: admin/views/import-demo-data.php:201
+msgid "Global Theme Options"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:213
+#: admin/views/product_category/font_style.php:23
+#: admin/views/product_category/font_style.php:208
+msgid "Google Font"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:185
+#: includes/shortcodes/nasa_01_6_product_categories.php:204
+#: includes/shortcodes/nasa_01_9_products_by_ids.php:118
+#: includes/shortcodes/nasa_11_brands.php:65
+#: includes/shortcodes/nasa_12_instagram_feed.php:132
+#: includes/widgets_elementor/nasa_01_1_products.php:44
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:104
+#: includes/widgets_elementor/nasa_01_6_product_categories.php:48
+#: includes/widgets_elementor/nasa_01_9_products_by_ids.php:29
+#: includes/widgets_elementor/nasa_12_instagram_feed.php:46
+msgid "Grid"
+msgstr ""
+
+#: includes/shortcodes/nasa_08_post.php:174
+#: includes/widgets_elementor/nasa_08_post.php:36
+msgid "Grid 1"
+msgstr ""
+
+#: includes/shortcodes/nasa_08_post.php:175
+#: includes/widgets_elementor/nasa_08_post.php:37
+msgid "Grid 2"
+msgstr ""
+
+#: includes/shortcodes/nasa_08_post.php:176
+#: includes/widgets_elementor/nasa_08_post.php:38
+msgid "Grid 3 - Only show 2 posts"
+msgstr ""
+
+#: includes/incls/nasa_09_wc_taxonomy.php:114
+msgid "Groups: "
+msgstr ""
+
+#: includes/shortcodes/nasa_16_title.php:118
+#: includes/shortcodes/nasa_17_others.php:752
+msgid "H1"
+msgstr ""
+
+#: includes/shortcodes/nasa_16_title.php:119
+#: includes/shortcodes/nasa_17_others.php:753
+msgid "H2"
+msgstr ""
+
+#: includes/shortcodes/nasa_16_title.php:120
+#: includes/shortcodes/nasa_17_others.php:754
+msgid "H3"
+msgstr ""
+
+#: includes/shortcodes/nasa_16_title.php:121
+#: includes/shortcodes/nasa_17_others.php:755
+msgid "H4"
+msgstr ""
+
+#: includes/shortcodes/nasa_16_title.php:122
+#: includes/shortcodes/nasa_17_others.php:756
+msgid "H5"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:505
+#: admin/views/product_category/background_breadcrumb_create.php:6
+#: admin/views/product_category/background_breadcrumb_edit.php:12
+msgid "Has breadcrumb background"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_4_products_special_deal.php:145
+#: includes/widgets_elementor/nasa_01_4_products_special_deal.php:36
+msgid "Has Nav 2 Items"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_4_products_special_deal.php:146
+#: includes/widgets_elementor/nasa_01_4_products_special_deal.php:37
+msgid "Has Nav 4 Items"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:277 post_type/incls/nasa_00_header.php:8
+#: post_type/incls/nasa_00_header.php:9
+msgid "Header"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:395
+msgid "Header Background"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:294 admin/incls/nasa_02_metabox.php:314
+#: post_type/incls/nasa_00_header.php:19
+#: admin/views/product_category/cat_header_footer_type.php:78
+#: admin/views/product_category/cat_header_footer_type.php:85
+#: admin/views/product_category/cat_header_footer_type.php:262
+#: admin/views/product_category/cat_header_footer_type.php:267
+msgid "Header Builder"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:302
+msgid "Header sticky (Not use for Header Builder)."
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:403
+msgid "Header Text color"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:412
+msgid "Header Text color hover"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:345
+msgid "Header Transparent"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:284
+msgid "Header Type"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:289
+#: admin/views/product_category/cat_header_footer_type.php:73
+#: admin/views/product_category/cat_header_footer_type.php:257
+msgid "Header Type 1"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:290
+#: admin/views/product_category/cat_header_footer_type.php:74
+#: admin/views/product_category/cat_header_footer_type.php:258
+msgid "Header Type 2"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:291
+#: admin/views/product_category/cat_header_footer_type.php:75
+#: admin/views/product_category/cat_header_footer_type.php:259
+msgid "Header Type 3"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:292
+#: admin/views/product_category/cat_header_footer_type.php:76
+#: admin/views/product_category/cat_header_footer_type.php:260
+msgid "Header Type 4"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:293
+#: admin/views/product_category/cat_header_footer_type.php:77
+#: admin/views/product_category/cat_header_footer_type.php:261
+msgid "Header Type 5"
+msgstr ""
+
+#: admin/views/product_category/cat_header_footer_type.php:103
+#: admin/views/product_category/cat_header_footer_type.php:280
+msgid "Header Vertical Menu"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:220
+msgid "Headings Font (H1, H2, H3, H4, H5, H6)"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:544
+msgid "Height (px)"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:552
+msgid "Height - Mobile (px)"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_6_product_groups.php:253
+#: includes/widgets_elementor/nasa_01_6_product_groups.php:31
+msgid "Hide Empty"
+msgstr ""
+
+#: includes/widgets/nasa_01_wg_product_brands.php:85
+msgid "Hide empty brands"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_6_product_categories.php:236
+#: includes/widgets_elementor/nasa_01_6_product_categories.php:68
+msgid "Hide empty categories"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:961
+#: includes/widgets_elementor/nasa_17_others.php:214
+msgid "Hide in Mobile - Mobile Layout"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:251
+#: includes/shortcodes/nasa_01_6_product_groups.php:244
+#: includes/widgets_elementor/nasa_01_6_product_groups.php:23
+msgid "Horizontal"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_6_product_categories.php:197
+#: includes/widgets_elementor/nasa_01_6_product_categories.php:41
+msgid "Horizontal 1"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_6_product_categories.php:198
+#: includes/widgets_elementor/nasa_01_6_product_categories.php:42
+msgid "Horizontal 2"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_6_product_categories.php:199
+#: includes/widgets_elementor/nasa_01_6_product_categories.php:43
+msgid "Horizontal 3"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_6_product_categories.php:200
+#: includes/widgets_elementor/nasa_01_6_product_categories.php:44
+msgid "Horizontal 4"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_6_product_categories.php:201
+#: includes/widgets_elementor/nasa_01_6_product_categories.php:45
+msgid "Horizontal 5"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_6_product_categories.php:202
+#: includes/widgets_elementor/nasa_01_6_product_categories.php:46
+msgid "Horizontal 6"
+msgstr ""
+
+#: includes/shortcodes/nasa_03_banners.php:150
+#: includes/shortcodes/nasa_03_banners_2.php:132
+#: includes/widgets_elementor/nasa_02_carousel.php:194
+#: includes/widgets_elementor/nasa_02_carousel_2.php:182
+#: includes/widgets_elementor/nasa_03_banners.php:51
+#: includes/widgets_elementor/nasa_03_banners_2.php:39
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:191
+#: admin/views/product_category/loop_layout_buttons.php:5
+msgid "Horizontal Buttons"
+msgstr ""
+
+#: admin/incls/nasa_05_wc_product_data_fields.php:101
+msgid "HOT"
+msgstr ""
+
+#: nasa-autoloader.php:198
+msgid "Hour"
+msgstr ""
+
+#: layouts/coming-soon/coming-soon.php:226
+msgid "hour"
+msgstr ""
+
+#: nasa-autoloader.php:191
+msgid "Hours"
+msgstr ""
+
+#: layouts/coming-soon/coming-soon.php:219
+msgid "hours"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:284
+msgid "Hover To Top"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://elessi.nasatheme.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://nasatheme.com"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:474
+msgid "Icon"
+msgstr ""
+
+#: admin/incls/nasa_03_mega_menu.php:539
+msgid "Icon Menu "
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:407
+msgid "Icon Viewed Style"
+msgstr ""
+
+#: includes/shortcodes/nasa_07_compare_imgs.php:159
+msgid ""
+"If you wish to style images differently, then use this field to add a class "
+"name and then refer to it in your css file."
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:432
+#: includes/shortcodes/nasa_01_1_products_masonry.php:177
+#: includes/shortcodes/nasa_01_2_products_viewed.php:166
+#: includes/shortcodes/nasa_01_3_products_main_extra.php:137
+#: includes/shortcodes/nasa_01_4_products_special_deal.php:286
+#: includes/shortcodes/nasa_01_4_product_deal.php:185
+#: includes/shortcodes/nasa_01_5_product_tags.php:102
+#: includes/shortcodes/nasa_01_6_product_categories.php:333
+#: includes/shortcodes/nasa_01_6_product_groups.php:306
+#: includes/shortcodes/nasa_01_7_pin_products_banner.php:335
+#: includes/shortcodes/nasa_01_8_pin_material_banner.php:202
+#: includes/shortcodes/nasa_01_9_products_by_ids.php:172
+#: includes/shortcodes/nasa_02_carousel.php:231
+#: includes/shortcodes/nasa_03_banners.php:278
+#: includes/shortcodes/nasa_03_banners_2.php:248
+#: includes/shortcodes/nasa_04_menu_mega.php:77
+#: includes/shortcodes/nasa_05_menu_root.php:72
+#: includes/shortcodes/nasa_06_menu_vertical.php:92
+#: includes/shortcodes/nasa_07_compare_imgs.php:166
+#: includes/shortcodes/nasa_08_post.php:430
+#: includes/shortcodes/nasa_11_brands.php:123
+#: includes/shortcodes/nasa_13_share_follow.php:325
+#: includes/shortcodes/nasa_13_share_follow.php:417
+#: includes/shortcodes/nasa_14_static_block.php:95
+#: includes/shortcodes/nasa_15_team_members.php:124
+#: includes/shortcodes/nasa_16_title.php:198
+#: includes/shortcodes/nasa_17_others.php:523
+#: includes/shortcodes/nasa_17_others.php:607
+#: includes/shortcodes/nasa_17_others.php:707
+#: includes/shortcodes/nasa_17_others.php:818
+#: includes/shortcodes/nasa_17_others.php:897
+#: includes/shortcodes/nasa_17_others.php:973
+#: includes/shortcodes/nasa_17_others.php:1008
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: abstracts/nasa_00_abstract_wc_attr_ux.php:28
+#: admin/incls/nasa_07_wc_attr_ux_admin.php:347
+#: admin/incls/nasa_08_wc_admin_taxonomy.php:134
+#: admin/incls/nasa_09_wc_admin_brand.php:149
+#: includes/shortcodes/nasa_17_others.php:908
+#: includes/shortcodes/nasa_17_others.php:941
+#: includes/widgets_elementor/nasa_17_others.php:196
+msgid "Image"
+msgstr ""
+
+#: includes/shortcodes/nasa_07_compare_imgs.php:149
+#: includes/widgets_elementor/nasa_07_compare_imgs.php:56
+msgid "Image After"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:114
+msgid "Image Attribute Style - All"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:125
+msgid "Image Attribute Style - Only use for Single or Quickview"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:638
+msgid "Image Attributes To Do Brands"
+msgstr ""
+
+#: includes/shortcodes/nasa_07_compare_imgs.php:141
+#: includes/widgets_elementor/nasa_07_compare_imgs.php:50
+msgid "Image Before"
+msgstr ""
+
+#: admin/views/product_category/single_product.php:38
+#: admin/views/product_category/single_product.php:152
+msgid "Image Layout"
+msgstr ""
+
+#: admin/incls/nasa_03_mega_menu.php:562
+msgid "Image Megamenu"
+msgstr ""
+
+#: admin/incls/nasa_05_wc_product_data_fields.php:132
+msgid "Image show in Product Element with Style is Simple Slide"
+msgstr ""
+
+#: admin/incls/nasa_05_wc_product_data_fields.php:129
+msgid "Image Simple Slide"
+msgstr ""
+
+#: includes/shortcodes/nasa_12_instagram_feed.php:116
+#: includes/shortcodes/nasa_15_team_members.php:110
+#: includes/widgets_elementor/nasa_12_instagram_feed.php:33
+msgid "Image Size"
+msgstr ""
+
+#: admin/views/product_category/single_product.php:63
+#: admin/views/product_category/single_product.php:168
+msgid "Image Style"
+msgstr ""
+
+#: includes/shortcodes/nasa_11_brands.php:87
+msgid "Images"
+msgstr ""
+
+#: admin/incls/nasa_05_wc_product_data_fields.php:175
+msgid "Images Layout"
+msgstr ""
+
+#: admin/incls/nasa_05_wc_product_data_fields.php:183
+msgid "Images Style"
+msgstr ""
+
+#: admin/views/import-demo-data.php:192
+msgid "Import Global Data (Media, Posts, Products, Categories...)"
+msgstr ""
+
+#: admin/views/import-demo-data.php:198
+msgid "Import Homes"
+msgstr ""
+
+#: admin/views/import-demo-data.php:195
+msgid "Import Widgets Sidebars"
+msgstr ""
+
+#: includes/shortcodes/nasa_08_post.php:411
+msgid "Info Align"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_08_post.php:159
+msgid "Info Align - With List Style"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:381
+msgid "Init Show Top Bar"
+msgstr ""
+
+#: includes/shortcodes/nasa_08_post.php:311
+msgid "Input categories slug Divide with \",\" Ex: slug-1, slug-2 ..."
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:923
+msgid ""
+"Input CNAME. It will be replaced for home URL of images your site. (Ex: "
+"https://elessi-cdn.nasatheme.com)"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_6_product_categories.php:182
+msgid "Input list ID or Slug, separated by \",\". Ex: 1, 2 or slug-1, slug-2"
+msgstr ""
+
+#: admin/views/pin-mb-admin-editor.php:175
+msgid "Input Material"
+msgstr ""
+
+#: includes/shortcodes/nasa_02_carousel.php:128
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:62
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:55
+#: includes/widgets_elementor/nasa_02_carousel.php:62
+#: includes/widgets_elementor/nasa_02_carousel_2.php:62
+msgid "Inside"
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:370
+#: includes/widgets_elementor/nasa_13_share_follow.php:88
+msgid "Instagram"
+msgstr ""
+
+#: includes/shortcodes/nasa_12_instagram_feed.php:94
+msgid "Instagram Feed"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:776
+msgid "Instagram URL Follow"
+msgstr ""
+
+#: admin/views/import-demo-data.php:189
+msgid "Install Elessi Theme - Child"
+msgstr ""
+
+#: includes/shortcodes/nasa_02_carousel.php:178
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:109
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:102
+#: includes/widgets_elementor/nasa_02_carousel.php:109
+#: includes/widgets_elementor/nasa_02_carousel_2.php:109
+msgid "Item Padding (px || %)"
+msgstr ""
+
+#: includes/shortcodes/nasa_02_carousel.php:185
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:115
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:108
+#: includes/widgets_elementor/nasa_02_carousel.php:115
+#: includes/widgets_elementor/nasa_02_carousel_2.php:115
+msgid "Item Padding in Mobile (px || %)"
+msgstr ""
+
+#: includes/shortcodes/nasa_02_carousel.php:192
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:121
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:114
+#: includes/widgets_elementor/nasa_02_carousel.php:121
+#: includes/widgets_elementor/nasa_02_carousel_2.php:121
+msgid "Item Padding in Tablet (px || %)"
+msgstr ""
+
+#: layouts/products/nasa_product_categories/content-product_cat_grid.php:40
+#: layouts/products/nasa_product_categories/content-product_cat_horizontal1.php:28
+#: layouts/products/nasa_product_categories/content-product_cat_vertical.php:11
+msgid "items"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_6_product_categories.php:96
+msgid "Items show in Vertical"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_6_product_categories.php:307
+msgid "Items show vertical"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:562
+msgid "Job"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:594
+msgid "Justify"
+msgstr ""
+
+#: abstracts/nasa_00_abstract_wc_attr_ux.php:27
+#: admin/incls/nasa_07_wc_attr_ux_admin.php:340
+#: includes/shortcodes/nasa_09_search.php:59
+msgid "Label"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:170
+msgid "Label Attribute Selected - Single / Quick view Product"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:149
+msgid "Label Attribute Style - Only use for Single or Quickview"
+msgstr ""
+
+#: layouts/script_tmpl/nasa-single-product-custom-fields.php:27
+msgid "Landscape"
+msgstr ""
+
+#: includes/shortcodes/nasa_12_instagram_feed.php:119
+#: includes/shortcodes/nasa_16_title.php:187
+#: includes/shortcodes/nasa_17_others.php:881
+#: includes/widgets_elementor/nasa_12_instagram_feed.php:35
+#: includes/widgets_elementor/nasa_17_others.php:55
+msgid "Large"
+msgstr ""
+
+#: admin/incls/nasa_05_wc_product_data_fields.php:159
+#: admin/incls/nasa_05_wc_product_data_fields.php:167
+#: includes/shortcodes/nasa_01_1_products_masonry.php:143
+#: includes/shortcodes/nasa_11_brands.php:61
+msgid "Layout"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products_masonry.php:146
+#: includes/widgets_elementor/nasa_01_1_products_masonry.php:38
+msgid "Layout type 1 (Limit 18 items)"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products_masonry.php:147
+#: includes/widgets_elementor/nasa_01_1_products_masonry.php:39
+msgid "Layout type 2 (Limit 16 items)"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:254
+#: includes/shortcodes/nasa_02_carousel.php:106
+#: includes/shortcodes/nasa_02_carousel.php:140
+#: includes/shortcodes/nasa_03_banners.php:154
+#: includes/shortcodes/nasa_03_banners.php:190
+#: includes/shortcodes/nasa_03_banners_2.php:136
+#: includes/shortcodes/nasa_03_banners_2.php:172
+#: includes/shortcodes/nasa_06_menu_vertical.php:81
+#: includes/shortcodes/nasa_07_compare_imgs.php:133
+#: includes/shortcodes/nasa_16_title.php:159
+#: includes/shortcodes/nasa_17_others.php:592
+#: includes/shortcodes/nasa_17_others.php:792
+#: includes/shortcodes/nasa_17_others.php:862
+#: includes/shortcodes/nasa_17_others.php:953
+#: includes/widgets_elementor/nasa_01_1_products.php:92
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:44
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:152
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:38
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:73
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:31
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:66
+#: includes/widgets_elementor/nasa_02_carousel.php:38
+#: includes/widgets_elementor/nasa_02_carousel.php:73
+#: includes/widgets_elementor/nasa_02_carousel.php:196
+#: includes/widgets_elementor/nasa_02_carousel.php:224
+#: includes/widgets_elementor/nasa_02_carousel_2.php:38
+#: includes/widgets_elementor/nasa_02_carousel_2.php:73
+#: includes/widgets_elementor/nasa_02_carousel_2.php:184
+#: includes/widgets_elementor/nasa_02_carousel_2.php:212
+#: includes/widgets_elementor/nasa_03_banners.php:53
+#: includes/widgets_elementor/nasa_03_banners.php:81
+#: includes/widgets_elementor/nasa_03_banners_2.php:41
+#: includes/widgets_elementor/nasa_03_banners_2.php:69
+#: includes/widgets_elementor/nasa_06_menu_vertical.php:35
+#: includes/widgets_elementor/nasa_07_compare_imgs.php:42
+#: includes/widgets_elementor/nasa_17_others.php:44
+#: includes/widgets_elementor/nasa_17_others.php:205
+msgid "Left"
+msgstr ""
+
+#: includes/shortcodes/nasa_08_post.php:414
+#: includes/widgets_elementor/nasa_08_post.php:161
+msgid "Left (RTL - Right)"
+msgstr ""
+
+#: admin/views/pin-mb-admin-editor.php:181
+#: admin/views/pin-pb-admin-editor.php:251
+msgid "Left of Pin"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:91
+msgid "Left sidebar Classic"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:90
+msgid "Left Sidebar Off-canvas"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:288
+msgid "Left to Right"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:455
+msgid "Level 2 Allways Show"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:412
+#: admin/incls/nasa_04_custom_setting.php:423
+msgid "Light"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:260
+#: includes/widgets_elementor/nasa_02_carousel_2.php:241
+#: includes/widgets_elementor/nasa_03_banners.php:117
+#: includes/widgets_elementor/nasa_03_banners_2.php:98
+msgid "lightSpeedIn"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:354
+#: includes/widgets_elementor/nasa_01_1_products.php:128
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:188
+msgid "Limit"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:106
+msgid "Limit in Product Grid"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_4_products_special_deal.php:126
+#: includes/widgets_elementor/nasa_01_4_products_special_deal.php:21
+msgid "Limit products"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:323
+msgid "Limit Recommended Products"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:107
+msgid ""
+"Limit show variations/1 attribute in product grid. Empty input to show all"
+msgstr ""
+
+#: includes/shortcodes/nasa_03_banners.php:137
+#: includes/shortcodes/nasa_03_banners_2.php:119
+#: includes/shortcodes/nasa_07_compare_imgs.php:114
+#: includes/widgets_elementor/nasa_02_carousel.php:182
+#: includes/widgets_elementor/nasa_02_carousel_2.php:170
+#: includes/widgets_elementor/nasa_03_banners.php:39
+#: includes/widgets_elementor/nasa_03_banners_2.php:27
+#: includes/widgets_elementor/nasa_07_compare_imgs.php:27
+msgid "Link"
+msgstr ""
+
+#: includes/shortcodes/nasa_12_instagram_feed.php:109
+#: includes/widgets_elementor/nasa_12_instagram_feed.php:27
+msgid "Link Follow"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:487
+#: includes/widgets_elementor/nasa_17_others.php:113
+#: includes/widgets_elementor/nasa_17_others.php:186
+msgid "Link Target"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:734
+msgid "Link text"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:727
+#: includes/shortcodes/nasa_13_share_follow.php:380
+#: includes/widgets_elementor/nasa_13_share_follow.php:100
+msgid "Linkedin"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:790
+msgid "Linkedin URL Follow"
+msgstr ""
+
+#: includes/shortcodes/nasa_08_post.php:177
+#: includes/widgets_elementor/nasa_08_post.php:39
+msgid "List"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:190
+#: includes/widgets_elementor/nasa_01_1_products.php:49
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:109
+msgid "List - Widget Items"
+msgstr ""
+
+#: post_type/incls/nasa_03_block.php:25
+msgid "List Blocks"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:450
+msgid "List Font Colours for Personalize product"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:442
+msgid "List Font Types for Personalize product"
+msgstr ""
+
+#: post_type/incls/nasa_01_footer.php:25
+msgid "List Footer"
+msgstr ""
+
+#: post_type/incls/nasa_00_header.php:25
+msgid "List Headers"
+msgstr ""
+
+#: post_type/incls/nasa_04_pin_products_banner.php:25
+#: post_type/incls/nasa_05_pin_material_banner.php:25
+msgid "List items"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:527
+msgid "Live Time Fake (s)"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:264
+msgid "LOAD MORE"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products_masonry.php:155
+msgid "Load More"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products_masonry.php:94
+#: layouts/portfolio/portfolio-archive.php:40
+#: layouts/products/nasa_products/infinite.php:28
+msgid "LOAD MORE ..."
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:93
+msgid "Load UX Variations in Grid After Click"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_2_products_viewed.php:153
+msgid "Loadding random products if had not exists list viewed products"
+msgstr ""
+
+#: admin/views/product_category/loop_layout_buttons.php:16
+#: admin/views/product_category/loop_layout_buttons.php:31
+msgid "Loop Layout Buttons"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:185
+msgid "Loop Product Buttons"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:463
+msgid "Main Menu Background"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:323
+msgid "Main Menu Fullwidth"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:472
+msgid "Main Menu Text color"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:238
+msgid "Main Navigation Font"
+msgstr ""
+
+#. %s: taxonomy term name
+#: admin/incls/nasa_09_wc_admin_brand.php:170
+#, php-format
+msgid "Make &#8220;%s&#8221; the default brand"
+msgstr ""
+
+#. %s: taxonomy term name
+#: admin/incls/nasa_08_wc_admin_taxonomy.php:157
+#, php-format
+msgid "Make &#8220;%s&#8221; the default category"
+msgstr ""
+
+#: admin/incls/nasa_08_wc_admin_taxonomy.php:158
+#: admin/incls/nasa_09_wc_admin_brand.php:170
+msgid "Make default"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_7_pin_products_banner.php:242
+#: includes/widgets_elementor/nasa_01_7_pin_products_banner.php:38
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:173
+msgid "Marker Full Price"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_7_pin_products_banner.php:230
+#: includes/widgets_elementor/nasa_01_7_pin_products_banner.php:28
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:163
+msgid "Marker Style"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:598
+msgid "Max Change"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:682
+msgid "Max Deep in Archive Products Page"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:506
+msgid "Max Fake Sold"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:520
+msgid "Max Fake Time (number hours ago)"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_5_product_tags.php:95
+msgid "Maximum numbers tag to display (Show all insert \"0\" or \"All\")"
+msgstr ""
+
+#: includes/shortcodes/nasa_12_instagram_feed.php:120
+#: includes/shortcodes/nasa_16_title.php:188
+#: includes/widgets_elementor/nasa_12_instagram_feed.php:36
+msgid "Medium"
+msgstr ""
+
+#: admin/incls/nasa_03_mega_menu.php:523
+#: includes/shortcodes/nasa_04_menu_mega.php:54
+msgid "Mega Menu"
+msgstr ""
+
+#: includes/shortcodes/nasa_15_team_members.php:95
+msgid "Member email"
+msgstr ""
+
+#: includes/shortcodes/nasa_15_team_members.php:117
+msgid "Member Information"
+msgstr ""
+
+#: includes/shortcodes/nasa_15_team_members.php:90
+msgid "Member name"
+msgstr ""
+
+#: includes/shortcodes/nasa_04_menu_mega.php:67
+#: includes/shortcodes/nasa_05_menu_root.php:62
+#: includes/shortcodes/nasa_06_menu_vertical.php:70
+msgid "Menu"
+msgstr ""
+
+#: includes/shortcodes/nasa_05_menu_root.php:49
+msgid "Menu 1 Level"
+msgstr ""
+
+#: includes/shortcodes/nasa_06_menu_vertical.php:56
+msgid "Menu Vertical"
+msgstr ""
+
+#: includes/shortcodes/nasa_03_banners.php:180
+#: includes/shortcodes/nasa_03_banners_2.php:162
+#: includes/widgets_elementor/nasa_02_carousel.php:214
+#: includes/widgets_elementor/nasa_02_carousel_2.php:202
+#: includes/widgets_elementor/nasa_03_banners.php:71
+#: includes/widgets_elementor/nasa_03_banners_2.php:59
+msgid "Middle"
+msgstr ""
+
+#: nasa-autoloader.php:199
+msgid "Min"
+msgstr ""
+
+#: layouts/coming-soon/coming-soon.php:227
+msgid "min"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:499
+msgid "Min Fake Sold"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:513
+msgid "Min Fake Time (number hours ago)"
+msgstr ""
+
+#: nasa-autoloader.php:192
+msgid "Mins"
+msgstr ""
+
+#: layouts/coming-soon/coming-soon.php:220
+msgid "mins"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:344
+msgid "Mobile Columns"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:328
+msgid "Monday - Friday"
+msgstr ""
+
+#: nasa-autoloader.php:195
+msgid "Month"
+msgstr ""
+
+#: layouts/coming-soon/coming-soon.php:223
+msgid "month"
+msgstr ""
+
+#: nasa-autoloader.php:188
+msgid "Months"
+msgstr ""
+
+#: layouts/coming-soon/coming-soon.php:216
+msgid "months"
+msgstr ""
+
+#: layouts/portfolio/portfolio-content.php:24
+#: layouts/portfolio/portfolio-recent.php:35
+msgid "More details"
+msgstr ""
+
+#: includes/shortcodes/nasa_03_banners.php:161
+#: includes/shortcodes/nasa_03_banners_2.php:143
+#: includes/widgets_elementor/nasa_02_carousel.php:205
+#: includes/widgets_elementor/nasa_02_carousel_2.php:193
+#: includes/widgets_elementor/nasa_03_banners.php:62
+#: includes/widgets_elementor/nasa_03_banners_2.php:50
+msgid "Move Horizontal a distance (%)"
+msgstr ""
+
+#: admin/incls/nasa_07_wc_attr_ux_admin.php:305
+#: includes/shortcodes/nasa_17_others.php:547
+#: includes/widgets/nasa_01_wg_product_brands.php:64
+msgid "Name"
+msgstr ""
+
+#: includes/shortcodes/nasa_18_rev_slider.php:36
+#: includes/widgets_elementor/nasa_18_rev_slider.php:16
+msgid "Nasa - Revo Slider"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_03_banners.php:16
+msgid "Nasa Banner"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_03_banners_2.php:16
+msgid "Nasa Banner v2"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_07_compare_imgs.php:16
+msgid "Nasa Compare IMGS"
+msgstr ""
+
+#. Name of the plugin
+msgid "Nasa Core"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:853
+msgid "Nasa Core Options"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_17_others.php:20
+msgid "Nasa Countdown"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_13_share_follow.php:53
+msgid "Nasa Follow"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_17_others.php:250
+msgid "Nasa Header Icons"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_17_others.php:169
+msgid "Nasa Image"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_12_instagram_feed.php:16
+msgid "Nasa Instagram Feed"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_05_menu_root.php:16
+msgid "Nasa Menu Root"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_06_menu_vertical.php:16
+msgid "Nasa Menu Vertical"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_7_pin_material_banner.php:16
+msgid "Nasa Pin Material Banner"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:23
+msgid "Nasa Pin Material Carousel"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_7_pin_products_banner.php:16
+msgid "Nasa Pin Products Banner"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:16
+msgid "Nasa Pin Products Carousel"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_08_post.php:16
+msgid "Nasa Post Blogs"
+msgstr ""
+
+#: includes/widgets/nasa_01_wg_product_brands.php:51
+msgid "Nasa Product Brands"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_6_product_categories.php:16
+msgid "Nasa Product Categories SC"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_4_product_deal.php:16
+msgid "Nasa Product Deal"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_6_product_groups.php:16
+msgid "Nasa Product Groups SC"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_1_products.php:16
+msgid "Nasa Products"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_9_products_by_ids.php:16
+msgid "Nasa Products By Ids"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_1_products_masonry.php:16
+msgid "Nasa Products Masonry"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_4_products_special_deal.php:16
+msgid "Nasa Products Special Deal"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:23
+msgid "Nasa Products Tabs"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_17_others.php:84
+msgid "Nasa Service Box"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_13_share_follow.php:20
+msgid "Nasa Share"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:23
+msgid "Nasa Sliders"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel_2.php:23
+msgid "Nasa Sliders v2"
+msgstr ""
+
+#. Author of the plugin
+msgid "NasaTheme"
+msgstr ""
+
+#: admin/views/import-demo-data.php:8 admin/views/import-demo-data.php:212
+msgid "NasaTheme - Import Demo Data"
+msgstr ""
+
+#: post_type/incls/nasa_04_pin_products_banner.php:13
+#: post_type/incls/nasa_05_pin_material_banner.php:13
+msgid "New"
+msgstr ""
+
+#: post_type/incls/nasa_03_block.php:13
+msgid "New Block"
+msgstr ""
+
+#: includes/incls/nasa_10_wc_brand.php:96
+msgid "New Brand"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:68
+msgid "New Category Name"
+msgstr ""
+
+#: post_type/incls/nasa_01_footer.php:13
+msgid "New Footer"
+msgstr ""
+
+#: includes/incls/nasa_09_wc_taxonomy.php:81
+msgid "New Group"
+msgstr ""
+
+#: post_type/incls/nasa_00_header.php:13
+msgid "New Header"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:213
+msgid "New layout (Sidebar - Off-Canvas)"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:18
+msgid "New Project"
+msgstr ""
+
+#: layouts/coming-soon/coming-soon.php:207
+msgid "New Store we be Launched in"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:55
+msgid "New Tag Name"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:295
+msgid "Next"
+msgstr ""
+
+#: layouts/products/nasa_products_deal/product_special_deal_multi-2.php:41
+#: layouts/products/nasa_products_deal/product_special_deal_multi.php:36
+msgid "Next Deal"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:80 admin/incls/nasa_02_metabox.php:102
+#: admin/incls/nasa_02_metabox.php:308 admin/incls/nasa_02_metabox.php:329
+#: admin/incls/nasa_02_metabox.php:351 admin/incls/nasa_02_metabox.php:374
+#: admin/incls/nasa_02_metabox.php:388
+#: includes/incls/nasa_05_custom_widgets.php:502
+#: includes/incls/nasa_05_custom_widgets.php:512
+#: includes/incls/nasa_05_custom_widgets.php:522
+#: includes/shortcodes/nasa_01_1_products_masonry.php:159
+#: includes/shortcodes/nasa_01_2_products_viewed.php:157
+#: includes/shortcodes/nasa_01_4_product_deal.php:159
+#: includes/shortcodes/nasa_01_6_product_groups.php:256
+#: includes/shortcodes/nasa_01_6_product_groups.php:268
+#: includes/shortcodes/nasa_01_7_pin_products_banner.php:245
+#: includes/shortcodes/nasa_01_7_pin_products_banner.php:263
+#: includes/shortcodes/nasa_01_7_pin_products_banner.php:281
+#: includes/shortcodes/nasa_01_7_pin_products_banner.php:292
+#: includes/shortcodes/nasa_01_7_pin_products_banner.php:305
+#: includes/shortcodes/nasa_01_8_pin_material_banner.php:172
+#: includes/shortcodes/nasa_02_carousel.php:118
+#: includes/shortcodes/nasa_02_carousel.php:151
+#: includes/shortcodes/nasa_02_carousel.php:202
+#: includes/shortcodes/nasa_03_banners.php:202
+#: includes/shortcodes/nasa_03_banners.php:258
+#: includes/shortcodes/nasa_03_banners.php:269
+#: includes/shortcodes/nasa_03_banners_2.php:228
+#: includes/shortcodes/nasa_03_banners_2.php:239
+#: includes/shortcodes/nasa_08_post.php:321
+#: includes/shortcodes/nasa_08_post.php:351
+#: includes/shortcodes/nasa_08_post.php:363
+#: includes/shortcodes/nasa_08_post.php:375
+#: includes/shortcodes/nasa_08_post.php:387
+#: includes/shortcodes/nasa_08_post.php:398
+#: includes/widgets_elementor/nasa_01_7_pin_material_banner.php:32
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:174
+#: includes/widgets_elementor/nasa_01_7_pin_products_banner.php:70
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:205
+#: admin/views/product_category/cat_bg_dark.php:5
+msgid "No"
+msgstr ""
+
+#: post_type/incls/nasa_03_block.php:16
+msgid "No Blocks found"
+msgstr ""
+
+#: post_type/incls/nasa_03_block.php:17
+msgid "No Blocks found in Trash"
+msgstr ""
+
+#: post_type/incls/nasa_01_footer.php:16
+msgid "No Footers found"
+msgstr ""
+
+#: post_type/incls/nasa_01_footer.php:17
+msgid "No Footers found in Trash"
+msgstr ""
+
+#: post_type/incls/nasa_00_header.php:17
+msgid "No Header found in Trash"
+msgstr ""
+
+#: post_type/incls/nasa_00_header.php:16
+msgid "No Headers found"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:751
+msgid "No heading"
+msgstr ""
+
+#: includes/incls/nasa_02_functions.php:424
+msgid "No Image"
+msgstr ""
+
+#: post_type/incls/nasa_04_pin_products_banner.php:16
+#: post_type/incls/nasa_05_pin_material_banner.php:16
+msgid "No items found"
+msgstr ""
+
+#: post_type/incls/nasa_04_pin_products_banner.php:17
+#: post_type/incls/nasa_05_pin_material_banner.php:17
+msgid "No items found in Trash"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_4_products_special_deal.php:144
+#: includes/widgets_elementor/nasa_01_4_products_special_deal.php:35
+msgid "No Nav Items"
+msgstr ""
+
+#: admin/metabox/helpers/cmb_Meta_Box_ajax.php:132
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:249
+msgid "No portfolio were found!"
+msgstr ""
+
+#: includes/widgets/nasa_01_wg_product_brands.php:257
+msgid "No product brands exist."
+msgstr ""
+
+#: layouts/products/nasa_products/viewed.php:99
+msgid "No products were viewed."
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:21
+msgid "No projects found"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:22
+msgid "No projects found in Trash"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:94
+msgid "No Sidebar"
+msgstr ""
+
+#: admin/metabox/helpers/cmb_Meta_Box_types.php:608
+#: admin/metabox/helpers/cmb_Meta_Box_types.php:641
+msgid "No terms"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:119
+#: includes/shortcodes/nasa_01_1_products.php:272
+#: includes/shortcodes/nasa_01_1_products.php:291
+#: includes/shortcodes/nasa_01_1_products.php:309
+#: includes/shortcodes/nasa_01_1_products.php:326
+#: includes/shortcodes/nasa_01_2_products_viewed.php:146
+#: includes/shortcodes/nasa_01_4_products_special_deal.php:246
+#: includes/shortcodes/nasa_01_4_products_special_deal.php:266
+#: includes/shortcodes/nasa_01_4_products_special_deal.php:277
+#: includes/shortcodes/nasa_01_6_product_categories.php:216
+#: includes/shortcodes/nasa_01_6_product_categories.php:240
+#: includes/shortcodes/nasa_01_6_product_categories.php:324
+#: includes/shortcodes/nasa_08_post.php:188
+#: includes/shortcodes/nasa_08_post.php:205
+#: includes/shortcodes/nasa_08_post.php:221
+#: includes/shortcodes/nasa_11_brands.php:75
+#: includes/shortcodes/nasa_12_instagram_feed.php:145
+#: includes/shortcodes/nasa_17_others.php:964
+#: includes/widgets_elementor/nasa_17_others.php:216
+msgid "No, Thanks!"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:290
+#: admin/incls/nasa_04_custom_setting.php:98
+#: includes/shortcodes/nasa_03_banners.php:226
+#: includes/shortcodes/nasa_03_banners.php:245
+#: includes/shortcodes/nasa_03_banners_2.php:196
+#: includes/shortcodes/nasa_03_banners_2.php:215
+#: includes/shortcodes/nasa_16_title.php:138
+#: includes/shortcodes/nasa_17_others.php:513
+#: includes/shortcodes/nasa_17_others.php:774
+#: includes/widgets_elementor/nasa_02_carousel.php:248
+#: includes/widgets_elementor/nasa_02_carousel.php:283
+#: includes/widgets_elementor/nasa_02_carousel.php:300
+#: includes/widgets_elementor/nasa_02_carousel_2.php:229
+#: includes/widgets_elementor/nasa_02_carousel_2.php:264
+#: includes/widgets_elementor/nasa_02_carousel_2.php:281
+#: includes/widgets_elementor/nasa_03_banners.php:105
+#: includes/widgets_elementor/nasa_03_banners.php:140
+#: includes/widgets_elementor/nasa_03_banners.php:159
+#: includes/widgets_elementor/nasa_03_banners_2.php:86
+#: includes/widgets_elementor/nasa_03_banners_2.php:121
+#: includes/widgets_elementor/nasa_03_banners_2.php:140
+#: includes/widgets_elementor/nasa_17_others.php:137
+msgid "None"
+msgstr ""
+
+#: includes/shortcodes/nasa_16_title.php:175
+msgid "None Special First word"
+msgstr ""
+
+#: admin/incls/nasa_07_wc_attr_ux_admin.php:375
+msgid "Not enough data"
+msgstr ""
+
+#: includes/shortcodes/nasa_02_carousel.php:129
+#: includes/shortcodes/nasa_16_title.php:185
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:63
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:56
+#: includes/widgets_elementor/nasa_02_carousel.php:63
+#: includes/widgets_elementor/nasa_02_carousel_2.php:63
+msgid "Not Set"
+msgstr ""
+
+#: admin/incls/nasa_03_mega_menu.php:547
+msgid "Number Columns Mega Menu"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_5_product_tags.php:92
+msgid "Numbers"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:172
+#: includes/shortcodes/nasa_01_1_products_masonry.php:133
+#: includes/widgets_elementor/nasa_01_1_products.php:33
+#: includes/widgets_elementor/nasa_01_1_products_masonry.php:27
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:93
+#: layouts/products/nasa_products/carousel.php:87
+msgid "On Sale"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_4_product_deal.php:133
+msgid "Only one product deal."
+msgstr ""
+
+#: includes/shortcodes/nasa_01_6_product_categories.php:223
+#: includes/widgets_elementor/nasa_01_6_product_categories.php:62
+msgid "Only show child of (Product category id or slug)"
+msgstr ""
+
+#: includes/widgets/nasa_01_wg_product_brands.php:80
+msgid "Only show children of the current brand"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_6_product_categories.php:212
+#: includes/widgets_elementor/nasa_01_6_product_categories.php:55
+msgid "Only Show top level"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:213
+msgid "Only using for Style is Ajax Infinite."
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:246
+msgid "Only using for Style is Carousel 1 row."
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:300
+msgid "Only using for Style is Carousel or Simple Slide."
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:336
+msgid "Only using for Style is Carousel or Slide."
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:233
+#: includes/shortcodes/nasa_01_1_products.php:264
+#: includes/shortcodes/nasa_01_1_products.php:282
+msgid "Only using for Style is Carousel."
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:160
+msgid "Only using for Style is Slider, Simple Slide."
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:318
+msgid "Only using for Style is Slider, Simple Slider 2."
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:660
+msgid "Opening time"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:937
+msgid "Optimize HTML"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:735
+#: admin/incls/nasa_04_custom_setting.php:736
+msgid "Options Follows"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:707
+#: admin/incls/nasa_04_custom_setting.php:708
+msgid "Options Shares"
+msgstr ""
+
+#: layouts/products/nasa_single_product/nasa-single-product-bulk-discount.php:120
+msgid "or more"
+msgstr ""
+
+#: includes/widgets/nasa_01_wg_product_brands.php:61
+msgid "Order by"
+msgstr ""
+
+#: includes/shortcodes/nasa_02_carousel.php:127
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:61
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:54
+#: includes/widgets_elementor/nasa_02_carousel.php:61
+#: includes/widgets_elementor/nasa_02_carousel_2.php:61
+msgid "Outside"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:464
+msgid "Override background color for Main menu (Only use header type 2)"
+msgstr ""
+
+#: admin/views/product_category/font_style.php:118
+#: admin/views/product_category/font_style.php:268
+msgid "Override Banner Font"
+msgstr ""
+
+#: admin/views/product_category/font_style.php:175
+#: admin/views/product_category/font_style.php:303
+msgid "Override Custom Font"
+msgstr ""
+
+#: admin/views/product_category/effect_hover_product.php:12
+#: admin/views/product_category/effect_hover_product.php:27
+msgid "Override effect hover product"
+msgstr ""
+
+#: admin/views/product_category/font_style.php:14
+#: admin/views/product_category/font_style.php:202
+msgid "Override Font"
+msgstr ""
+
+#: admin/views/product_category/cat_header_footer_type.php:144
+#: admin/views/product_category/cat_header_footer_type.php:311
+msgid "Override Footer Build-in"
+msgstr ""
+
+#: admin/views/product_category/cat_header_footer_type.php:163
+#: admin/views/product_category/cat_header_footer_type.php:325
+msgid "Override Footer Build-in Mobile"
+msgstr ""
+
+#: admin/views/product_category/cat_header_footer_type.php:180
+#: admin/views/product_category/cat_header_footer_type.php:337
+msgid "Override Footer Builder"
+msgstr ""
+
+#: admin/views/product_category/cat_header_footer_type.php:216
+#: admin/views/product_category/cat_header_footer_type.php:363
+msgid "Override Footer Builder Elementor"
+msgstr ""
+
+#: admin/views/product_category/cat_header_footer_type.php:234
+#: admin/views/product_category/cat_header_footer_type.php:376
+msgid "Override Footer Builder Elementor Mobile"
+msgstr ""
+
+#: admin/views/product_category/cat_header_footer_type.php:198
+#: admin/views/product_category/cat_header_footer_type.php:350
+msgid "Override Footer Builder Mobile"
+msgstr ""
+
+#: admin/views/product_category/cat_header_footer_type.php:121
+#: admin/views/product_category/cat_header_footer_type.php:293
+msgid "Override Footer Mode"
+msgstr ""
+
+#: admin/views/product_category/cat_header_footer_type.php:66
+#: admin/views/product_category/cat_header_footer_type.php:253
+msgid "Override Header type"
+msgstr ""
+
+#: admin/views/product_category/font_style.php:34
+#: admin/views/product_category/font_style.php:216
+msgid "Override Headings Font"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:117
+#: admin/views/product_category/logo_create.php:14
+#: admin/views/product_category/logo_edit.php:36
+msgid "Override Logo"
+msgstr ""
+
+#: admin/views/product_category/logo_create.php:56
+#: admin/views/product_category/logo_edit.php:81
+msgid "Override Logo Mobile"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:108
+#: admin/views/product_category/logo_create.php:3
+#: admin/views/product_category/logo_edit.php:20
+msgid "Override Logo Mode"
+msgstr ""
+
+#: admin/views/product_category/logo_create.php:28
+#: admin/views/product_category/logo_edit.php:51
+msgid "Override Logo Retina"
+msgstr ""
+
+#: admin/views/product_category/logo_create.php:42
+#: admin/views/product_category/logo_edit.php:66
+msgid "Override Logo Sticky"
+msgstr ""
+
+#: admin/views/product_category/font_style.php:90
+#: admin/views/product_category/font_style.php:251
+msgid "Override Menu Navigation Font"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:141
+msgid "Override Mobile Logo"
+msgstr ""
+
+#: admin/views/product_category/font_style.php:146
+#: admin/views/product_category/font_style.php:285
+msgid "Override Price Font"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:149
+#: admin/views/product_category/primary_color.php:10
+#: admin/views/product_category/primary_color.php:20
+msgid "Override Primary Color"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:125
+msgid "Override Retina Logo"
+msgstr ""
+
+#: admin/views/product_category/cat_sidebar.php:10
+#: admin/views/product_category/cat_sidebar.php:24
+msgid "Override Shop Sidebar"
+msgstr ""
+
+#: admin/views/product_category/cat_sidebar_layout.php:13
+#: admin/views/product_category/cat_sidebar_layout.php:31
+msgid "Override Sidebar Layout"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:133
+msgid "Override Sticky Logo"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:473
+msgid "Override text color for Main menu"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:413
+msgid "Override Text color hover items in header"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:439
+msgid "Override Text color hover items in Top bar"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:404
+msgid "Override Text color items in header"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:430
+msgid "Override text color items in top bar"
+msgstr ""
+
+#: admin/views/product_category/font_style.php:62
+#: admin/views/product_category/font_style.php:234
+msgid "Override Texts Font"
+msgstr ""
+
+#: post_type/incls/nasa_03_block.php:18
+msgid "Parent Block:"
+msgstr ""
+
+#: includes/incls/nasa_10_wc_brand.php:91
+msgid "Parent Brand"
+msgstr ""
+
+#: includes/incls/nasa_10_wc_brand.php:92
+msgid "Parent Brand:"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:63
+msgid "Parent Category"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:64
+msgid "Parent Category:"
+msgstr ""
+
+#: post_type/incls/nasa_01_footer.php:18
+msgid "Parent Footer:"
+msgstr ""
+
+#: includes/incls/nasa_09_wc_taxonomy.php:76
+msgid "Parent Group"
+msgstr ""
+
+#: includes/incls/nasa_09_wc_taxonomy.php:77
+msgid "Parent Group:"
+msgstr ""
+
+#: post_type/incls/nasa_00_header.php:18
+msgid "Parent Header:"
+msgstr ""
+
+#: post_type/incls/nasa_04_pin_products_banner.php:18
+#: post_type/incls/nasa_05_pin_material_banner.php:18
+msgid "Parent Item:"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:50
+msgid "Parent Tag"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:51
+msgid "Parent Tag:"
+msgstr ""
+
+#: admin/incls/nasa_05_wc_product_data_fields.php:65
+msgid "Percentage Discount"
+msgstr ""
+
+#: admin/incls/nasa_05_wc_product_data_fields.php:250
+#: admin/incls/nasa_05_wc_product_data_fields.php:258
+msgid "Personalize"
+msgstr ""
+
+#: admin/incls/nasa_05_wc_product_data_fields.php:303
+msgid "Personalize (Allow Customized by Customer)"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:429
+#: admin/incls/nasa_04_custom_setting.php:430
+msgid "Personalize product"
+msgstr ""
+
+#: includes/incls/nasa_11_wc_ct_fields_add_to_cart.php:158
+#: includes/incls/nasa_11_wc_ct_fields_add_to_cart.php:198
+msgid "Personalized"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:631
+msgid "Phone"
+msgstr ""
+
+#: includes/shortcodes/nasa_12_instagram_feed.php:159
+#: includes/widgets_elementor/nasa_12_instagram_feed.php:62
+msgid "Photos Limit"
+msgstr ""
+
+#: post_type/incls/nasa_05_pin_material_banner.php:8
+#: post_type/incls/nasa_05_pin_material_banner.php:9
+msgid "Pin material banner"
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:76
+msgid "Pin on Pinterest"
+msgstr ""
+
+#: post_type/incls/nasa_04_pin_products_banner.php:8
+#: post_type/incls/nasa_04_pin_products_banner.php:9
+msgid "Pin products banner"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:726
+#: includes/shortcodes/nasa_13_share_follow.php:360
+#: includes/widgets_elementor/nasa_13_share_follow.php:76
+msgid "Pinterest"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:769
+msgid "Pinterest URL Follow"
+msgstr ""
+
+#: admin/views/product_category/cat_sidebar.php:17
+#: admin/views/product_category/cat_sidebar.php:26
+msgid "Please checked, save and built sidebar at: Appearance > Widgets"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:643
+msgid "Please create a Product Attribute type Image to use this feature."
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:222
+#: admin/incls/nasa_04_custom_setting.php:230
+#: admin/incls/nasa_04_custom_setting.php:254
+#: admin/incls/nasa_04_custom_setting.php:262
+#: admin/incls/nasa_04_custom_setting.php:271
+#: admin/incls/nasa_04_custom_setting.php:279
+#: admin/incls/nasa_04_custom_setting.php:287
+#: admin/incls/nasa_04_custom_setting.php:295
+#: admin/incls/nasa_04_custom_setting.php:303
+#: admin/views/product_category/cat_footer_content.php:26
+#: admin/views/product_category/cat_footer_content.php:43
+#: admin/views/product_category/cat_header.php:26
+#: admin/views/product_category/cat_header.php:43
+#: admin/views/product_category/size_guide_block.php:26
+#: admin/views/product_category/size_guide_block.php:43
+msgid "Please create Static Blocks and select here."
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:870
+#: admin/incls/nasa_04_custom_setting.php:896
+msgid "Please don't turn off with this option to increase website performance"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:983
+msgid ""
+"Please enter a time to return the site to Online (YYYY/mm/dd | YYYY-mm-dd)."
+msgstr ""
+
+#: includes/shortcodes/nasa_12_instagram_feed.php:25
+msgid ""
+"Please install \"Smash Balloon Instagram Feed\" plugin to use this feature."
+msgstr ""
+
+#: includes/incls/nasa_05_custom_widgets.php:863
+msgid "Please Install Revolution Slider Plugin to use this."
+msgstr ""
+
+#: admin/views/import-demo-data.php:12
+msgid "Please Install WooCommerce plugin Before Import Demo Data!!!"
+msgstr ""
+
+#: admin/views/import-demo-data.php:14
+msgid "Please Install WPBakery or Elementor plugin Before Import Demo Data!!!"
+msgstr ""
+
+#: admin/metabox/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr ""
+
+#: admin/views/import-demo-data.php:185
+msgid "Please waiting in a few minutes, The process is running..."
+msgstr ""
+
+#: includes/shortcodes/nasa_01_7_pin_products_banner.php:234
+#: includes/widgets_elementor/nasa_01_7_pin_products_banner.php:31
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:166
+msgid "Plus icon"
+msgstr ""
+
+#: layouts/script_tmpl/nasa-single-product-custom-fields.php:26
+msgid "Portrait"
+msgstr ""
+
+#: admin/incls/nasa_03_mega_menu.php:578
+#: includes/shortcodes/nasa_15_team_members.php:100
+msgid "Position"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:238
+#: includes/widgets_elementor/nasa_01_1_products.php:79
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:139
+msgid "Position Title | Navigation (The Top Only use for Style is Carousel)"
+msgstr ""
+
+#: includes/shortcodes/nasa_08_post.php:147
+msgid "Post Blogs"
+msgstr ""
+
+#: includes/shortcodes/nasa_09_search.php:73
+msgid "Post Type"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:13
+msgctxt "post type general name"
+msgid "Projects"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:14
+msgctxt "post type singular name"
+msgid "Portfolio"
+msgstr ""
+
+#: layouts/blogs/latestblog_carousel.php:90
+#: layouts/blogs/latestblog_carousel.php:125
+#: layouts/blogs/latestblog_grid.php:67 layouts/blogs/latestblog_grid.php:104
+#: layouts/blogs/latestblog_grid_2.php:73
+#: layouts/blogs/latestblog_grid_3.php:81 layouts/blogs/latestblog_list.php:66
+#: layouts/blogs/latestblog_list.php:101
+#: layouts/blogs/single/nasa-blog-relate.php:82
+#: layouts/blogs/single/nasa-blog-relate.php:119
+msgid "Posted By "
+msgstr ""
+
+#: includes/shortcodes/nasa_09_search.php:77
+msgid "Posts - Blogs"
+msgstr ""
+
+#: layouts/blogs/latestblog_carousel.php:81
+#: layouts/blogs/latestblog_carousel.php:116
+#: layouts/blogs/latestblog_grid.php:58 layouts/blogs/latestblog_grid.php:95
+#: layouts/blogs/latestblog_grid_2.php:64
+#: layouts/blogs/latestblog_grid_3.php:72 layouts/blogs/latestblog_list.php:57
+#: layouts/blogs/latestblog_list.php:92
+#: layouts/blogs/single/nasa-blog-relate.php:73
+#: layouts/blogs/single/nasa-blog-relate.php:110
+msgid "Posts at "
+msgstr ""
+
+#: includes/shortcodes/nasa_08_post.php:235
+#: includes/widgets_elementor/nasa_08_post.php:67
+msgid "Posts number - Not use with Grid 3"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:286
+msgid "Prev"
+msgstr ""
+
+#: layouts/products/nasa_products_deal/product_special_deal_multi-2.php:38
+#: layouts/products/nasa_products_deal/product_special_deal_multi.php:31
+msgid "Prev Deal"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:256
+msgid "Price Font"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_7_pin_products_banner.php:233
+#: includes/widgets_elementor/nasa_01_7_pin_products_banner.php:30
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:165
+msgid "Price icon"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_7_pin_products_banner.php:260
+#: includes/widgets_elementor/nasa_01_7_pin_products_banner.php:45
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:180
+msgid "Price Rounding"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:158
+msgid "Primary color"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:197
+msgid "Product 360&#176; Viewer"
+msgstr ""
+
+#: admin/incls/nasa_09_wc_admin_brand.php:484
+msgid "Product brand base"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:612
+#: includes/widgets/nasa_01_wg_product_brands.php:55
+msgid "Product Brands"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_5_product_tags.php:86
+msgid "Product Categories"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:414
+#: includes/shortcodes/nasa_01_1_products_masonry.php:167
+#: includes/shortcodes/nasa_01_3_products_main_extra.php:127
+#: includes/shortcodes/nasa_01_4_products_special_deal.php:133
+msgid "Product Category"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_1_products.php:168
+#: includes/widgets_elementor/nasa_01_1_products_masonry.php:53
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:228
+#: includes/widgets_elementor/nasa_01_4_products_special_deal.php:27
+msgid "Product Category (Use slug of Category)"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_4_product_deal.php:130
+msgid "Product Deal Schedule"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:654
+msgid "Product Group"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_6_product_groups.php:232
+msgid "Product Groups"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_9_products_by_ids.php:107
+#: includes/widgets_elementor/nasa_01_9_products_by_ids.php:21
+msgid "Product Ids"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_4_product_deal.php:21
+msgid "Product Selected"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_5_product_tags.php:67
+#: includes/shortcodes/nasa_01_5_product_tags.php:87
+msgid "Product Tags"
+msgstr ""
+
+#: admin/incls/nasa_05_wc_product_data_fields.php:111
+msgid "Product Video Link"
+msgstr ""
+
+#: admin/incls/nasa_05_wc_product_data_fields.php:119
+msgid "Product Video Size"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:142
+msgid "Products"
+msgstr ""
+
+#: includes/shortcodes/nasa_09_search.php:76
+msgid "Products - WooCommerce"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_9_products_by_ids.php:98
+msgid "Products By Ids"
+msgstr ""
+
+#: includes/incls/nasa_05_custom_widgets.php:15
+msgid "Products Category: "
+msgstr ""
+
+#: includes/shortcodes/nasa_01_4_products_special_deal.php:117
+msgid "Products Deal"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_3_products_main_extra.php:85
+msgid "Products Main Extra"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products_masonry.php:117
+msgid "Products Masonry"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_2_products_viewed.php:102
+msgid "Products Viewed"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:15
+msgctxt "project"
+msgid "Add New"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:465
+msgid "Promote Sales"
+msgstr ""
+
+#: admin/views/bulk-dsct.php:20 admin/views/bulk-dsct.php:54
+msgid "Quantity"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:154
+#: admin/views/product_category/attr_label_style.php:4
+msgid "Radio Style"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:141
+#: admin/views/product_category/attr_color_style.php:4
+msgid "Radio Style - Tooltip"
+msgstr ""
+
+#: layouts/blogs/latestblog_carousel.php:99
+#: layouts/blogs/latestblog_carousel.php:102
+#: layouts/blogs/latestblog_carousel.php:134
+#: layouts/blogs/latestblog_carousel.php:137
+#: layouts/blogs/latestblog_grid.php:76 layouts/blogs/latestblog_grid.php:79
+#: layouts/blogs/latestblog_grid.php:113 layouts/blogs/latestblog_grid.php:116
+#: layouts/blogs/latestblog_grid_2.php:82
+#: layouts/blogs/latestblog_grid_2.php:85
+#: layouts/blogs/latestblog_grid_3.php:90
+#: layouts/blogs/latestblog_grid_3.php:93 layouts/blogs/latestblog_list.php:75
+#: layouts/blogs/latestblog_list.php:78 layouts/blogs/latestblog_list.php:110
+#: layouts/blogs/latestblog_list.php:113
+#: layouts/blogs/single/nasa-blog-relate.php:91
+#: layouts/blogs/single/nasa-blog-relate.php:94
+#: layouts/blogs/single/nasa-blog-relate.php:128
+#: layouts/blogs/single/nasa-blog-relate.php:131
+msgid "Read more"
+msgstr ""
+
+#: layouts/products/nasa_products/carousel.php:97
+msgid "Recent"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:168
+#: includes/shortcodes/nasa_01_1_products_masonry.php:129
+#: includes/widgets_elementor/nasa_01_1_products.php:29
+#: includes/widgets_elementor/nasa_01_1_products_masonry.php:23
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:89
+msgid "Recent Products"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:173
+#: includes/shortcodes/nasa_01_1_products_masonry.php:134
+#: includes/widgets_elementor/nasa_01_1_products.php:34
+#: includes/widgets_elementor/nasa_01_1_products_masonry.php:28
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:94
+#: layouts/products/nasa_products/carousel.php:90
+msgid "Recent Review"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:122
+msgid "Recent Works"
+msgstr ""
+
+#: includes/incls/nasa_03_functions_woo.php:625
+#: includes/incls/nasa_03_functions_woo.php:659
+#: includes/incls/nasa_03_functions_woo.php:659
+msgid "Recently Viewed"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:307
+msgid "Recommend In Archive Products"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:308
+msgid "Recommend In Archive Products Page"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:369
+msgid "Recommend Position"
+msgstr ""
+
+#: includes/incls/nasa_03_functions_woo.php:452
+msgid "Recommend Products"
+msgstr ""
+
+#: layouts/blogs/single/nasa-blog-relate.php:21
+msgid "Related posts"
+msgstr ""
+
+#: admin/incls/nasa_03_mega_menu.php:385 admin/views/bulk-dsct.php:36
+#: admin/views/bulk-dsct.php:70
+#: admin/metabox/helpers/cmb_Meta_Box_types.php:308
+#: admin/metabox/helpers/cmb_Meta_Box_types.php:711
+#: admin/metabox/helpers/cmb_Meta_Box_types.php:772
+msgid "Remove"
+msgstr ""
+
+#: admin/views/widgets_elementor/slider-item.php:7
+#: admin/views/widgets_elementor/tab-content-products.php:7
+msgid "Remove "
+msgstr ""
+
+#: admin/metabox/helpers/cmb_Meta_Box_ajax.php:129
+msgid "Remove Embed"
+msgstr ""
+
+#: admin/metabox/helpers/cmb_Meta_Box_field.php:499
+msgid "Remove Group"
+msgstr ""
+
+#: admin/incls/nasa_07_wc_attr_ux_admin.php:176
+#: admin/incls/nasa_08_wc_admin_taxonomy.php:260
+#: admin/incls/nasa_08_wc_admin_taxonomy.php:358
+#: admin/incls/nasa_09_wc_admin_brand.php:272
+#: admin/incls/nasa_09_wc_admin_brand.php:370
+#: includes/incls/nasa_05_custom_widgets.php:297
+#: includes/widgets_elementor/nasa_02_carousel.php:518
+#: includes/widgets_elementor/nasa_02_carousel_2.php:499
+#: admin/metabox/helpers/cmb_Meta_Box_types.php:701
+#: admin/metabox/helpers/cmb_Meta_Box_types.php:764
+#: admin/views/product_category/background_breadcrumb_create.php:21
+#: admin/views/product_category/background_breadcrumb_create.php:35
+#: admin/views/product_category/background_breadcrumb_edit.php:32
+#: admin/views/product_category/background_breadcrumb_edit.php:52
+#: admin/views/product_category/logo_create.php:22
+#: admin/views/product_category/logo_create.php:36
+#: admin/views/product_category/logo_create.php:50
+#: admin/views/product_category/logo_create.php:64
+#: admin/views/product_category/logo_edit.php:44
+#: admin/views/product_category/logo_edit.php:59
+#: admin/views/product_category/logo_edit.php:74
+#: admin/views/product_category/logo_edit.php:89
+msgid "Remove Image"
+msgstr ""
+
+#: includes/incls/nasa_03_functions_woo.php:898
+#: layouts/products/nasa_single_product/nasa-single-product-popup-nodes.php:187
+msgid "Request a Call Back"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:242
+msgid "Request a Call Back - Single Product Page"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:531
+msgid "Reset Fake Sold"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:531
+msgid "Reset Fake Sold Success !"
+msgstr ""
+
+#: includes/shortcodes/nasa_03_banners.php:197
+#: includes/widgets_elementor/nasa_02_carousel.php:233
+#: includes/widgets_elementor/nasa_03_banners.php:90
+msgid "Responsive"
+msgstr ""
+
+#: layouts/products/nasa_products/viewed.php:99
+msgid "RETURN TO SHOP"
+msgstr ""
+
+#: includes/shortcodes/nasa_18_rev_slider.php:39
+msgid "Revolution Slider."
+msgstr ""
+
+#: includes/widgets_elementor/nasa_18_rev_slider.php:21
+msgid "RevSlider Item"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_18_rev_slider.php:27
+msgid "RevSlider Item - Mobile Layout"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:255
+#: includes/shortcodes/nasa_02_carousel.php:108
+#: includes/shortcodes/nasa_02_carousel.php:141
+#: includes/shortcodes/nasa_03_banners.php:156
+#: includes/shortcodes/nasa_03_banners.php:192
+#: includes/shortcodes/nasa_03_banners_2.php:138
+#: includes/shortcodes/nasa_03_banners_2.php:174
+#: includes/shortcodes/nasa_06_menu_vertical.php:82
+#: includes/shortcodes/nasa_07_compare_imgs.php:134
+#: includes/shortcodes/nasa_16_title.php:161
+#: includes/shortcodes/nasa_17_others.php:593
+#: includes/shortcodes/nasa_17_others.php:794
+#: includes/shortcodes/nasa_17_others.php:863
+#: includes/shortcodes/nasa_17_others.php:955
+#: includes/widgets_elementor/nasa_01_1_products.php:93
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:45
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:153
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:39
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:74
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:32
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:67
+#: includes/widgets_elementor/nasa_02_carousel.php:39
+#: includes/widgets_elementor/nasa_02_carousel.php:74
+#: includes/widgets_elementor/nasa_02_carousel.php:198
+#: includes/widgets_elementor/nasa_02_carousel.php:226
+#: includes/widgets_elementor/nasa_02_carousel_2.php:39
+#: includes/widgets_elementor/nasa_02_carousel_2.php:74
+#: includes/widgets_elementor/nasa_02_carousel_2.php:186
+#: includes/widgets_elementor/nasa_02_carousel_2.php:214
+#: includes/widgets_elementor/nasa_03_banners.php:55
+#: includes/widgets_elementor/nasa_03_banners.php:83
+#: includes/widgets_elementor/nasa_03_banners_2.php:43
+#: includes/widgets_elementor/nasa_03_banners_2.php:71
+#: includes/widgets_elementor/nasa_06_menu_vertical.php:36
+#: includes/widgets_elementor/nasa_07_compare_imgs.php:43
+#: includes/widgets_elementor/nasa_17_others.php:45
+#: includes/widgets_elementor/nasa_17_others.php:207
+msgid "Right"
+msgstr ""
+
+#: includes/shortcodes/nasa_08_post.php:415
+#: includes/widgets_elementor/nasa_08_post.php:162
+msgid "Right (RTL - Left)"
+msgstr ""
+
+#: admin/views/pin-mb-admin-editor.php:182
+#: admin/views/pin-pb-admin-editor.php:252
+msgid "Right of Pin"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:93
+msgid "Right Sidebar Classic"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:92
+msgid "Right Sidebar Off-canvas"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:289
+msgid "Right to Left"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:166
+msgid "Root Product Category"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:167
+msgid "Root Product Category. (Use for Multi stores)"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:516
+#: includes/widgets_elementor/nasa_17_others.php:140
+msgid "Rotate"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:261
+#: includes/widgets_elementor/nasa_02_carousel_2.php:242
+#: includes/widgets_elementor/nasa_03_banners.php:118
+#: includes/widgets_elementor/nasa_03_banners_2.php:99
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:262
+#: includes/widgets_elementor/nasa_02_carousel_2.php:243
+#: includes/widgets_elementor/nasa_03_banners.php:119
+#: includes/widgets_elementor/nasa_03_banners_2.php:100
+msgid "rotateInDownRight"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:263
+#: includes/widgets_elementor/nasa_02_carousel_2.php:244
+#: includes/widgets_elementor/nasa_03_banners.php:120
+#: includes/widgets_elementor/nasa_03_banners_2.php:101
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:264
+#: includes/widgets_elementor/nasa_02_carousel_2.php:245
+#: includes/widgets_elementor/nasa_03_banners.php:121
+#: includes/widgets_elementor/nasa_03_banners_2.php:102
+msgid "rotateInUpRight"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:57
+#: admin/incls/nasa_04_custom_setting.php:119
+#: admin/views/product_category/attr_image_style.php:4
+msgid "Round"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:155
+#: admin/views/product_category/attr_label_style.php:5
+msgid "Round Wrapper"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:142
+#: admin/views/product_category/attr_color_style.php:5
+msgid "Round Wrapper - Tooltip"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:218
+#: includes/widgets_elementor/nasa_01_1_products.php:68
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:128
+msgid "Rows of Slide"
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:375
+#: includes/widgets_elementor/nasa_13_share_follow.php:94
+msgid "RSS"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:783
+msgid "RSS URL Follow"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:329
+msgid "Saturday"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:687
+msgid "Saturday End Time"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:681
+msgid "Saturday Start Time"
+msgstr ""
+
+#: admin/metabox/init.php:1141
+msgid "Save"
+msgstr ""
+
+#: layouts/products/nasa_single_product/nasa-single-product-bulk-discount.php:51
+#: layouts/products/nasa_single_product/nasa-single-product-bulk-discount.php:85
+#, php-format
+msgid "Save&nbsp;%s&nbsp;<i>(%s&#37;&nbsp;OFF)</i>"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:270
+msgid "Scroll Down"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:239
+msgid "Scroll images"
+msgstr ""
+
+#: includes/shortcodes/nasa_09_search.php:50
+#: post_type/incls/nasa_04_pin_products_banner.php:15
+#: post_type/incls/nasa_05_pin_material_banner.php:15
+msgid "Search"
+msgstr ""
+
+#: includes/shortcodes/nasa_09_search.php:36
+msgid "Search ..."
+msgstr ""
+
+#: post_type/incls/nasa_03_block.php:15
+msgid "Search Blocks"
+msgstr ""
+
+#: includes/incls/nasa_10_wc_brand.php:89
+msgid "Search Brands"
+msgstr ""
+
+#: post_type/incls/nasa_01_footer.php:15
+msgid "Search Footers"
+msgstr ""
+
+#: admin/views/html-accessories-product.php:12
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: includes/incls/nasa_09_wc_taxonomy.php:74
+msgid "Search Groups"
+msgstr ""
+
+#: post_type/incls/nasa_00_header.php:15
+msgid "Search Header"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:20
+msgid "Search Projects"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:48
+#: post_type/incls/nasa_02_portfolio.php:61
+msgid "Search Types"
+msgstr ""
+
+#: nasa-autoloader.php:200
+msgid "Sec"
+msgstr ""
+
+#: layouts/coming-soon/coming-soon.php:228
+msgid "sec"
+msgstr ""
+
+#: nasa-autoloader.php:193
+msgid "Secs"
+msgstr ""
+
+#: layouts/coming-soon/coming-soon.php:221
+msgid "secs"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_6_product_groups.php:153
+msgid "Select"
+msgstr ""
+
+#: admin/metabox/init.php:280
+msgid "Select / Deselect All"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_4_product_deal.php:139
+msgid "Select a product deal"
+msgstr ""
+
+#: admin/incls/nasa_07_wc_attr_ux_admin.php:230
+msgid "Select all"
+msgstr ""
+
+#: includes/shortcodes/nasa_14_static_block.php:65
+msgid "Select block"
+msgstr ""
+
+#: includes/incls/nasa_04_shortcodes.php:228
+msgid "Select category"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:714
+msgid ""
+"Select icons to be shown on share icons on product page, blog page and "
+"[share] shortcode"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:945
+msgid "Select images from media library."
+msgstr ""
+
+#: includes/incls/nasa_02_functions.php:200
+msgid "Select Item"
+msgstr ""
+
+#: includes/incls/nasa_02_functions.php:408
+msgid "Select Level 1"
+msgstr ""
+
+#: includes/incls/nasa_02_functions.php:410
+msgid "Select Level 2"
+msgstr ""
+
+#: includes/incls/nasa_02_functions.php:412
+msgid "Select Level 3"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:196
+msgid "Select menu"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_05_menu_root.php:27
+#: includes/widgets_elementor/nasa_06_menu_vertical.php:27
+msgid "Select Menu (Use slug of Menu)"
+msgstr ""
+
+#: includes/incls/nasa_02_functions.php:414
+msgid "Select Model"
+msgstr ""
+
+#: admin/incls/nasa_07_wc_attr_ux_admin.php:231
+msgid "Select none"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:99
+msgid "Select Options"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_7_pin_products_banner.php:221
+#: includes/shortcodes/nasa_01_8_pin_material_banner.php:158
+msgid "Select Pin"
+msgstr ""
+
+#: includes/incls/nasa_02_functions.php:231
+msgid "Select Rev Slider Item"
+msgstr ""
+
+#: admin/incls/nasa_07_wc_attr_ux_admin.php:220
+msgid "Select terms"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:136
+msgid "Select the Contact Form"
+msgstr ""
+
+#: admin/incls/nasa_03_mega_menu.php:344
+msgid "Select Widget Area"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:307
+msgid "Select Your Custom Font."
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:215
+msgid "Send us an email"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:446
+#: admin/incls/nasa_04_custom_setting.php:454
+msgid "Separated by \", \""
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:453
+msgid "Service Box"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:468
+#: includes/widgets_elementor/nasa_17_others.php:95
+msgid "Service Description"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:510
+#: includes/widgets_elementor/nasa_17_others.php:135
+msgid "Service Hover Effect"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_17_others.php:101
+msgid ""
+"Service Icon. Enter icon class name. Support FontAwesome, Font Pe 7 Stroke "
+"(https://themes-pixeden.com/font-demos/7-stroke/), Font Nasa (https://elessi."
+"nasatheme.com/wp-content/themes/elessi-theme/assets/font-nasa/icons-"
+"reference.html)"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:480
+#: includes/widgets_elementor/nasa_17_others.php:107
+msgid "Service link"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:498
+#: includes/widgets_elementor/nasa_17_others.php:123
+msgid "Service Style"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:462
+#: includes/widgets_elementor/nasa_17_others.php:89
+msgid "Service Title"
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:38
+#: includes/shortcodes/nasa_13_share_follow.php:308
+msgid "Share"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:701
+msgid "Share & Follow"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:713
+msgid "Share Icons"
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:64
+msgid "Share on Facebook"
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:88
+msgid "Share on Linkedin"
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:100
+msgid "Share on Telegram"
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:52
+msgid "Share on Twitter"
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:112
+msgid "Share on VK"
+msgstr ""
+
+#: layouts/products/nasa_product_categories/content-product_cat_grid.php:43
+#: layouts/products/nasa_product_categories/content-product_cat_grid.php:44
+msgid "Shop All"
+msgstr ""
+
+#: layouts/products/nasa_products/carousel.php:193
+#: layouts/products/nasa_products/carousel.php:194
+msgid "Shop all"
+msgstr ""
+
+#: layouts/products/nasa_products/slide_slick_2.php:73
+msgid "Shop now"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:269
+msgid "Shop URL"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_1_products.php:100
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:160
+msgid "Shop URL (Only use for Style is Carousel)"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_4_products_special_deal.php:169
+msgid "Short Description"
+msgstr ""
+
+#. Description of the plugin
+msgid "Shortcodes, custom post types and more for NasaTheme (ELESSI - THEME)"
+msgstr ""
+
+#: layouts/portfolio/portfolio-archive.php:20
+msgid "Show All"
+msgstr ""
+
+#: includes/widgets/nasa_01_wg_product_brands.php:90
+msgid "Show as Accordion"
+msgstr ""
+
+#: includes/shortcodes/nasa_08_post.php:359
+#: includes/widgets_elementor/nasa_08_post.php:121
+msgid "Show author post"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_4_products_special_deal.php:243
+#: includes/widgets_elementor/nasa_01_4_products_special_deal.php:84
+msgid "Show Available - Sold"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:491
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: includes/shortcodes/nasa_08_post.php:383
+#: includes/widgets_elementor/nasa_08_post.php:152
+msgid "Show button page blogs"
+msgstr ""
+
+#: includes/shortcodes/nasa_08_post.php:317
+#: includes/widgets_elementor/nasa_08_post.php:107
+msgid "Show Categories of post"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_6_product_groups.php:265
+#: includes/widgets_elementor/nasa_01_6_product_groups.php:38
+msgid "Show Count products"
+msgstr ""
+
+#: includes/shortcodes/nasa_08_post.php:347
+#: includes/widgets_elementor/nasa_08_post.php:114
+msgid "Show date post"
+msgstr ""
+
+#: includes/widgets/nasa_01_wg_product_brands.php:95
+msgid "Show default numbers items"
+msgstr ""
+
+#: includes/shortcodes/nasa_08_post.php:394
+#: includes/widgets_elementor/nasa_08_post.php:145
+msgid "Show description"
+msgstr ""
+
+#: admin/views/product_category/custom_tax.php:17
+#: admin/views/product_category/custom_tax.php:35
+msgid "Show Filter Custom Taxonomies"
+msgstr ""
+
+#: includes/widgets/nasa_01_wg_product_brands.php:75
+msgid "Show hierarchy"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_7_pin_products_banner.php:278
+#: includes/widgets_elementor/nasa_01_7_pin_products_banner.php:52
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:187
+msgid "Show Image"
+msgstr ""
+
+#: includes/shortcodes/nasa_12_instagram_feed.php:167
+#: includes/widgets_elementor/nasa_12_instagram_feed.php:68
+msgid "Show on DeskTop"
+msgstr ""
+
+#: includes/shortcodes/nasa_12_instagram_feed.php:185
+#: includes/widgets_elementor/nasa_12_instagram_feed.php:82
+msgid "Show on Mobile"
+msgstr ""
+
+#: includes/shortcodes/nasa_12_instagram_feed.php:176
+#: includes/widgets_elementor/nasa_12_instagram_feed.php:75
+msgid "Show on Tablet"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_7_pin_products_banner.php:289
+#: includes/widgets_elementor/nasa_01_7_pin_products_banner.php:59
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:194
+msgid "Show Price"
+msgstr ""
+
+#: includes/widgets/nasa_01_wg_product_brands.php:70
+msgid "Show product counts"
+msgstr ""
+
+#: includes/shortcodes/nasa_08_post.php:371
+#: includes/widgets_elementor/nasa_08_post.php:128
+msgid "Show read more"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:86
+msgid "Show the first item - Type Select, Custom"
+msgstr ""
+
+#: admin/incls/nasa_03_mega_menu.php:592
+msgid "Show Title"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:382
+msgid "Show Top Bar When this page loaded"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:242
+#: includes/widgets_elementor/nasa_01_1_products.php:82
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:142
+msgid "Side"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:243
+#: includes/widgets_elementor/nasa_01_1_products.php:83
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:143
+msgid "Side Classic"
+msgstr ""
+
+#: includes/shortcodes/nasa_16_title.php:139
+#: includes/shortcodes/nasa_17_others.php:556
+#: includes/shortcodes/nasa_17_others.php:772
+msgid "Simple"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:187
+#: includes/widgets_elementor/nasa_01_1_products.php:46
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:106
+msgid "Simple Slider"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:188
+#: includes/widgets_elementor/nasa_01_1_products.php:47
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:107
+msgid "Simple Slider 2"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:227
+msgid "Single images"
+msgstr ""
+
+#: admin/views/product_category/single_product.php:18
+#: admin/views/product_category/single_product.php:136
+msgid "Single Product Layout"
+msgstr ""
+
+#: admin/views/product_category/single_product.php:115
+#: admin/views/product_category/single_product.php:200
+msgid "Single Product Tabs"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:947
+#: admin/incls/nasa_04_custom_setting.php:948
+msgid "Site Mode Options"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:953
+msgid "Site Offline"
+msgstr ""
+
+#: layouts/products/nasa_single_product/nasa-single-product-popup-nodes.php:13
+msgid "Size Guide"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:218
+msgid "Size Guide - Single Product Page"
+msgstr ""
+
+#: admin/views/product_category/size_guide_block.php:14
+msgid "Size Guide Content"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:268
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:60
+msgid "Slide"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:323
+#: includes/shortcodes/nasa_01_2_products_viewed.php:142
+#: includes/shortcodes/nasa_01_6_product_categories.php:320
+#: includes/shortcodes/nasa_08_post.php:184
+#: includes/shortcodes/nasa_11_brands.php:71
+#: includes/shortcodes/nasa_12_instagram_feed.php:142
+#: includes/widgets_elementor/nasa_01_1_products.php:121
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:181
+#: includes/widgets_elementor/nasa_01_6_product_categories.php:103
+#: includes/widgets_elementor/nasa_08_post.php:46
+#: includes/widgets_elementor/nasa_12_instagram_feed.php:55
+msgid "Slide Auto"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:238
+msgid "Slide images"
+msgstr ""
+
+#: admin/views/widgets_elementor/slider-item.php:3
+msgid "Slide Item"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:254
+#: includes/widgets_elementor/nasa_02_carousel_2.php:235
+#: includes/widgets_elementor/nasa_03_banners.php:111
+#: includes/widgets_elementor/nasa_03_banners_2.php:92
+msgid "slideInDown"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:256
+#: includes/widgets_elementor/nasa_02_carousel_2.php:237
+#: includes/widgets_elementor/nasa_03_banners.php:113
+#: includes/widgets_elementor/nasa_03_banners_2.php:94
+msgid "slideInLeft"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:257
+#: includes/widgets_elementor/nasa_02_carousel_2.php:238
+#: includes/widgets_elementor/nasa_03_banners.php:114
+#: includes/widgets_elementor/nasa_03_banners_2.php:95
+msgid "slideInRight"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:255
+#: includes/widgets_elementor/nasa_02_carousel_2.php:236
+#: includes/widgets_elementor/nasa_03_banners.php:112
+#: includes/widgets_elementor/nasa_03_banners_2.php:93
+msgid "slideInUp"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:186
+#: includes/shortcodes/nasa_01_9_products_by_ids.php:119
+#: includes/shortcodes/nasa_02_carousel.php:87
+#: includes/shortcodes/nasa_08_post.php:173
+#: includes/shortcodes/nasa_12_instagram_feed.php:133
+#: includes/shortcodes/nasa_18_rev_slider.php:45
+#: includes/widgets_elementor/nasa_01_1_products.php:45
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:105
+#: includes/widgets_elementor/nasa_01_9_products_by_ids.php:30
+#: includes/widgets_elementor/nasa_08_post.php:35
+#: includes/widgets_elementor/nasa_12_instagram_feed.php:47
+msgid "Slider"
+msgstr ""
+
+#: includes/shortcodes/nasa_18_rev_slider.php:54
+msgid "Slider - Mobile layout"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:215
+msgid "Slider - No Thumbs (Sidebar - Off-Canvas)"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:191
+#: includes/widgets_elementor/nasa_01_1_products.php:50
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:110
+msgid "Slider - Widget Items"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:46
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:39
+#: includes/widgets_elementor/nasa_02_carousel.php:46
+#: includes/widgets_elementor/nasa_02_carousel_2.php:46
+msgid "Slider Items"
+msgstr ""
+
+#: admin/incls/nasa_07_wc_attr_ux_admin.php:312
+msgid "Slug"
+msgstr ""
+
+#: admin/incls/nasa_09_wc_admin_brand.php:493
+msgctxt "slug"
+msgid "product-brand"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:667
+msgid "Slug of Products Group"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_7_pin_material_banner.php:22
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:164
+#: includes/widgets_elementor/nasa_01_7_pin_products_banner.php:22
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:157
+msgid "Slug Pin"
+msgstr ""
+
+#: includes/shortcodes/nasa_16_title.php:189
+#: includes/shortcodes/nasa_17_others.php:880
+#: includes/widgets_elementor/nasa_17_others.php:54
+msgid "Small"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:143
+#: admin/views/product_category/attr_color_style.php:6
+msgid "Small Square"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:156
+#: admin/views/product_category/attr_label_style.php:6
+msgid "Small Square 1"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:157
+#: admin/views/product_category/attr_label_style.php:7
+msgid "Small Square 2"
+msgstr ""
+
+#: includes/incls/nasa_99_custom_wc-ajax.php:309
+msgid "Sorry, Maybe a product empty in stock."
+msgstr ""
+
+#: includes/incls/nasa_08_wc_attr_ux.php:199
+msgid ""
+"Sorry, no products matched your selection. Please choose a different "
+"combination."
+msgstr ""
+
+#: includes/shortcodes/nasa_16_title.php:176
+msgid "Special First word"
+msgstr ""
+
+#: admin/incls/nasa_05_wc_product_data_fields.php:139
+#: includes/incls/nasa_03_functions_woo.php:1236
+msgid "Specifications"
+msgstr ""
+
+#: includes/shortcodes/nasa_02_carousel.php:209
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:134
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:127
+#: includes/widgets_elementor/nasa_02_carousel.php:134
+#: includes/widgets_elementor/nasa_02_carousel_2.php:134
+msgid "Speed Slider"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:58
+#: admin/incls/nasa_04_custom_setting.php:120
+#: admin/views/product_category/attr_image_style.php:5
+msgid "Square"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:131
+#: admin/views/product_category/attr_image_single_style.php:5
+msgid "Square has Caption"
+msgstr ""
+
+#: admin/views/import-demo-data.php:17
+msgid "START IMPORT DATA"
+msgstr ""
+
+#: includes/shortcodes/nasa_14_static_block.php:73
+msgid "Static Block"
+msgstr ""
+
+#: post_type/incls/nasa_03_block.php:19
+msgid "Static Blocks"
+msgstr ""
+
+#: post_type/incls/nasa_03_block.php:8 post_type/incls/nasa_03_block.php:9
+msgid "Static blocks"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:301
+msgid "Sticky"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:182
+#: includes/shortcodes/nasa_01_4_products_special_deal.php:141
+#: includes/shortcodes/nasa_01_6_product_groups.php:241
+#: includes/shortcodes/nasa_01_9_products_by_ids.php:115
+#: includes/shortcodes/nasa_08_post.php:170
+#: includes/shortcodes/nasa_17_others.php:552
+#: includes/shortcodes/nasa_17_others.php:846
+#: includes/widgets_elementor/nasa_01_1_products.php:42
+#: includes/widgets_elementor/nasa_01_1_products_masonry.php:36
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:52
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:102
+#: includes/widgets_elementor/nasa_01_4_products_special_deal.php:33
+#: includes/widgets_elementor/nasa_01_6_product_categories.php:39
+#: includes/widgets_elementor/nasa_01_6_product_groups.php:21
+#: includes/widgets_elementor/nasa_01_9_products_by_ids.php:27
+#: includes/widgets_elementor/nasa_08_post.php:33
+#: includes/widgets_elementor/nasa_17_others.php:31
+msgid "Style"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:501
+#: includes/widgets_elementor/nasa_17_others.php:125
+msgid "Style 1"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:502
+#: includes/widgets_elementor/nasa_17_others.php:126
+msgid "Style 2"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:503
+#: includes/widgets_elementor/nasa_17_others.php:127
+msgid "Style 3"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:504
+#: includes/widgets_elementor/nasa_17_others.php:128
+msgid "Style 4"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:199
+#: includes/widgets_elementor/nasa_01_1_products.php:57
+#: includes/widgets_elementor/nasa_01_1_products_masonry.php:46
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:117
+msgid "Style View More"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_6_product_groups.php:296
+msgid "Submit Redirect To"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_6_product_groups.php:58
+msgid ""
+"Submit Redirect To (Input Slug of a Category you want, Default redirect to "
+"Shop page or Home page)"
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:236
+msgid "Subscribe to RSS"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:330
+msgid "Sunday"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:699
+msgid "Sunday End Time"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:693
+msgid "Sunday Start Time"
+msgstr ""
+
+#: admin/views/widgets_elementor/tab-content-products.php:3
+msgid "Tab"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:80
+msgid "TAB TITLE"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:356
+msgid "Tablet Columns"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:67
+msgid "Tabs Content"
+msgstr ""
+
+#: admin/incls/nasa_05_wc_product_data_fields.php:199
+msgid "Tabs Style"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:489
+#: includes/shortcodes/nasa_17_others.php:805
+#: includes/shortcodes/nasa_17_others.php:931
+msgid "Target"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_5_product_tags.php:83
+msgid "Taxonomy"
+msgstr ""
+
+#: includes/incls/nasa_10_wc_brand.php:87
+msgctxt "taxonomy general name"
+msgid "Brands"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:59
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr ""
+
+#: includes/incls/nasa_09_wc_taxonomy.php:72
+msgctxt "taxonomy general name"
+msgid "Groups"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:46
+msgctxt "taxonomy general name"
+msgid "Tags"
+msgstr ""
+
+#: admin/incls/nasa_07_wc_attr_ux_admin.php:379
+msgid "Taxonomy is not exists"
+msgstr ""
+
+#: includes/incls/nasa_10_wc_brand.php:88
+msgctxt "taxonomy singular name"
+msgid "Brand"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:60
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: includes/incls/nasa_09_wc_taxonomy.php:73
+msgctxt "taxonomy singular name"
+msgid "Group"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:47
+msgctxt "taxonomy singular name"
+msgid "Tag"
+msgstr ""
+
+#: admin/incls/nasa_05_wc_product_data_fields.php:146
+msgid "Technical Specifications"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:728
+#: includes/shortcodes/nasa_13_share_follow.php:395
+#: includes/widgets_elementor/nasa_13_share_follow.php:118
+msgid "Telegram"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:818
+msgid "Telegram URL Follow"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:533
+msgid "Testimonials"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:582
+msgid "Testimonials Content Say"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:571
+msgid "Testimonials Text Color"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:850
+#: includes/widgets_elementor/nasa_17_others.php:34
+msgid "Text"
+msgstr ""
+
+#: includes/shortcodes/nasa_03_banners.php:186
+#: includes/shortcodes/nasa_03_banners_2.php:168
+#: includes/widgets_elementor/nasa_02_carousel.php:222
+#: includes/widgets_elementor/nasa_02_carousel_2.php:210
+#: includes/widgets_elementor/nasa_03_banners.php:79
+#: includes/widgets_elementor/nasa_03_banners_2.php:67
+msgid "Text Alignment"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_4_product_deal.php:167
+#: includes/widgets_elementor/nasa_01_4_product_deal.php:40
+msgid "Text Button"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:536
+msgid "Text Color"
+msgstr ""
+
+#: admin/views/product_category/background_breadcrumb_create.php:41
+#: admin/views/product_category/background_breadcrumb_edit.php:63
+msgid "Text color breadcrumb"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_7_pin_products_banner.php:319
+#: includes/shortcodes/nasa_01_8_pin_material_banner.php:186
+msgid "Text color icon"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:717
+msgid "Text Link"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:229
+msgid "Texts Font (paragraphs, etc..)"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:88
+msgid ""
+"The max-width your site will be INPUT + 1200 (pixel). Empty will use default "
+"theme option"
+msgstr ""
+
+#: includes/incls/nasa_05_custom_widgets.php:315
+#: includes/incls/nasa_05_custom_widgets.php:323
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:399
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:407
+msgid "There is not Category selected."
+msgstr ""
+
+#: includes/incls/nasa_05_custom_widgets.php:349
+#: includes/incls/nasa_05_custom_widgets.php:357
+msgid "There is not Menu selected."
+msgstr ""
+
+#: includes/incls/nasa_05_custom_widgets.php:391
+#: includes/incls/nasa_05_custom_widgets.php:399
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:360
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:368
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:391
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:399
+msgid "There is not Pin selected."
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_4_product_deal.php:73
+#: includes/widgets_elementor/nasa_01_4_product_deal.php:85
+msgid "There is not product selected."
+msgstr ""
+
+#: includes/incls/nasa_05_custom_widgets.php:429
+#: includes/incls/nasa_05_custom_widgets.php:437
+msgid "There is not Revolution Slider selected."
+msgstr ""
+
+#: admin/incls/nasa_09_wc_admin_brand.php:205
+msgid ""
+"This is the default brand and it cannot be deleted. It will be automatically "
+"assigned to products with no brand."
+msgstr ""
+
+#: admin/incls/nasa_08_wc_admin_taxonomy.php:193
+msgid ""
+"This is the default category and it cannot be deleted. It will be "
+"automatically assigned to products with no category."
+msgstr ""
+
+#: layouts/products/nasa_single_product/nasa-single-product-accessories-tab-content.php:91
+msgid "This product: "
+msgstr ""
+
+#: admin/incls/nasa_07_wc_attr_ux_admin.php:383
+msgid "This term is exists"
+msgstr ""
+
+#: admin/incls/nasa_08_wc_admin_taxonomy.php:205
+#: admin/incls/nasa_08_wc_admin_taxonomy.php:255
+#: admin/incls/nasa_08_wc_admin_taxonomy.php:352
+#: admin/incls/nasa_09_wc_admin_brand.php:217
+#: admin/incls/nasa_09_wc_admin_brand.php:267
+#: admin/incls/nasa_09_wc_admin_brand.php:364
+#: includes/shortcodes/nasa_12_instagram_feed.php:121
+#: includes/widgets_elementor/nasa_12_instagram_feed.php:37
+msgid "Thumbnail"
+msgstr ""
+
+#: admin/views/product_category/single_product.php:89
+msgid "Thumbnail Style"
+msgstr ""
+
+#: admin/incls/nasa_05_wc_product_data_fields.php:191
+msgid "Thumbnails Style"
+msgstr ""
+
+#: admin/views/product_category/single_product.php:184
+msgid "Thumnail Style"
+msgstr ""
+
+#: includes/shortcodes/nasa_16_title.php:190
+msgid "Tiny"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:151
+#: includes/shortcodes/nasa_01_2_products_viewed.php:111
+#: includes/shortcodes/nasa_01_4_products_special_deal.php:155
+#: includes/shortcodes/nasa_01_4_product_deal.php:147
+#: includes/shortcodes/nasa_01_5_product_tags.php:76
+#: includes/shortcodes/nasa_01_6_product_categories.php:172
+#: includes/shortcodes/nasa_02_carousel.php:97
+#: includes/shortcodes/nasa_04_menu_mega.php:62
+#: includes/shortcodes/nasa_05_menu_root.php:57
+#: includes/shortcodes/nasa_06_menu_vertical.php:64
+#: includes/shortcodes/nasa_07_compare_imgs.php:106
+#: includes/shortcodes/nasa_08_post.php:156
+#: includes/shortcodes/nasa_13_share_follow.php:318
+#: includes/shortcodes/nasa_13_share_follow.php:345
+#: includes/shortcodes/nasa_14_static_block.php:81
+#: includes/shortcodes/nasa_16_title.php:93
+#: includes/widgets/nasa_01_wg_product_brands.php:56
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:29
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:81
+#: includes/widgets_elementor/nasa_01_4_product_deal.php:27
+#: includes/widgets_elementor/nasa_01_6_product_categories.php:21
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:29
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:22
+#: includes/widgets_elementor/nasa_02_carousel.php:29
+#: includes/widgets_elementor/nasa_02_carousel_2.php:29
+#: includes/widgets_elementor/nasa_05_menu_root.php:21
+#: includes/widgets_elementor/nasa_06_menu_vertical.php:21
+#: includes/widgets_elementor/nasa_07_compare_imgs.php:21
+#: includes/widgets_elementor/nasa_08_post.php:21
+#: includes/widgets_elementor/nasa_13_share_follow.php:25
+#: includes/widgets_elementor/nasa_13_share_follow.php:58
+msgid "Title"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_1_products.php:21
+msgid "Title (Only using for Style is Slider, Simple Slide.)"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_4_products_special_deal.php:45
+msgid "Title - Not Use for Nav 2 Items"
+msgstr ""
+
+#: includes/shortcodes/nasa_02_carousel.php:103
+msgid "Title Align"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:251
+#: includes/widgets_elementor/nasa_01_1_products.php:90
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:150
+msgid "Title align (Only use for Style is Carousel)"
+msgstr ""
+
+#: includes/shortcodes/nasa_16_title.php:156
+#: includes/shortcodes/nasa_17_others.php:789
+msgid "Title Alignment"
+msgstr ""
+
+#: includes/shortcodes/nasa_16_title.php:149
+#: includes/shortcodes/nasa_17_others.php:781
+msgid "Title Description"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:748
+msgid "Title heading"
+msgstr ""
+
+#: includes/shortcodes/nasa_16_title.php:135
+#: includes/shortcodes/nasa_17_others.php:769
+msgid "Title HR"
+msgstr ""
+
+#: includes/shortcodes/nasa_16_title.php:172
+msgid "Title Style"
+msgstr ""
+
+#: includes/shortcodes/nasa_16_title.php:102
+#: includes/shortcodes/nasa_17_others.php:726
+msgid "Title text"
+msgstr ""
+
+#: includes/shortcodes/nasa_16_title.php:115
+msgid "Title type heading"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:556
+msgid "To - Estimated Days"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:368
+msgid "Toggle Top Bar"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:374
+#: includes/shortcodes/nasa_01_1_products.php:241
+#: includes/shortcodes/nasa_03_banners.php:179
+#: includes/shortcodes/nasa_03_banners_2.php:161
+#: includes/shortcodes/nasa_08_post.php:332
+#: includes/widgets_elementor/nasa_02_carousel.php:213
+#: includes/widgets_elementor/nasa_02_carousel_2.php:201
+#: includes/widgets_elementor/nasa_03_banners.php:70
+#: includes/widgets_elementor/nasa_03_banners_2.php:58
+#: includes/widgets_elementor/nasa_08_post.php:138
+msgid "Top"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_01_1_products.php:81
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:141
+msgid "Top - for Carousel 1 Row"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:88
+msgid "Top Bar"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:421
+msgid "Top Bar Background"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:429
+msgid "Top Bar Text Color"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:438
+msgid "Top Bar Text Color Hover"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:89
+msgid "Top Bar Type 2"
+msgstr ""
+
+#: admin/views/product_category/cat_header.php:14
+#: admin/views/product_category/cat_header.php:33
+msgid "Top Content"
+msgstr ""
+
+#: admin/views/pin-mb-admin-editor.php:180
+#: admin/views/pin-pb-admin-editor.php:250
+msgid "Top of Pin"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:171
+#: includes/shortcodes/nasa_01_1_products_masonry.php:132
+#: includes/widgets_elementor/nasa_01_1_products.php:32
+#: includes/widgets_elementor/nasa_01_1_products_masonry.php:26
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:92
+#: layouts/products/nasa_products/carousel.php:84
+msgid "Top Rate"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:287
+msgid "Top to Bottom"
+msgstr ""
+
+#: layouts/products/nasa_single_product/nasa-single-product-accessories-tab-content.php:119
+msgid "Total Price: "
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:880
+msgid "Transients - of default Wordpress"
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:410
+#: includes/widgets_elementor/nasa_13_share_follow.php:136
+msgid "Tumblr"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:804
+msgid "Tumblr URL Follow"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:618
+#: admin/incls/nasa_04_custom_setting.php:619
+msgid "Turn On Product Brand - Taxonomies"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:725
+#: includes/shortcodes/nasa_13_share_follow.php:350
+#: includes/widgets_elementor/nasa_13_share_follow.php:64
+msgid "Twitter"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:755
+msgid "Twitter URL Follow"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:202
+#: includes/widgets_elementor/nasa_01_1_products.php:59
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:119
+msgid "Type 1 - No Border"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:203
+#: includes/widgets_elementor/nasa_01_1_products.php:60
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:120
+msgid "Type 2 - Border - Top - Bottom"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:204
+#: includes/widgets_elementor/nasa_01_1_products.php:61
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:121
+msgid "Type 3 - Button - Radius - Dash"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_3_products_main_extra.php:110
+msgid "Type Extra"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:207
+msgid "Type Font"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_3_products_main_extra.php:94
+msgid "Type Main"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_1_products.php:165
+#: includes/shortcodes/nasa_01_1_products_masonry.php:126
+#: includes/widgets_elementor/nasa_01_1_products.php:27
+#: includes/widgets_elementor/nasa_01_1_products_masonry.php:21
+#: includes/widgets_elementor/nasa_01_1_products_tabs.php:87
+msgid "Type Show"
+msgstr ""
+
+#: includes/incls/nasa_09_wc_taxonomy.php:79
+#: includes/incls/nasa_10_wc_brand.php:94
+msgid "Update"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:66
+msgid "Update Category"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:53
+msgid "Update Tag"
+msgstr ""
+
+#: admin/incls/nasa_03_mega_menu.php:384
+msgid "Upload"
+msgstr ""
+
+#: admin/incls/nasa_07_wc_attr_ux_admin.php:175
+#: admin/incls/nasa_08_wc_admin_taxonomy.php:259
+#: admin/incls/nasa_08_wc_admin_taxonomy.php:357
+#: admin/incls/nasa_09_wc_admin_brand.php:271
+#: admin/incls/nasa_09_wc_admin_brand.php:369
+#: includes/incls/nasa_05_custom_widgets.php:293
+#: includes/widgets_elementor/nasa_02_carousel.php:514
+#: includes/widgets_elementor/nasa_02_carousel_2.php:495
+#: admin/views/product_category/background_breadcrumb_create.php:20
+#: admin/views/product_category/background_breadcrumb_create.php:34
+#: admin/views/product_category/background_breadcrumb_edit.php:31
+#: admin/views/product_category/background_breadcrumb_edit.php:51
+#: admin/views/product_category/logo_create.php:21
+#: admin/views/product_category/logo_create.php:35
+#: admin/views/product_category/logo_create.php:49
+#: admin/views/product_category/logo_create.php:63
+#: admin/views/product_category/logo_edit.php:43
+#: admin/views/product_category/logo_edit.php:58
+#: admin/views/product_category/logo_edit.php:73
+#: admin/views/product_category/logo_edit.php:88
+msgid "Upload/Add image"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:924
+#: includes/widgets_elementor/nasa_17_others.php:180
+msgid "URL"
+msgstr ""
+
+#: includes/shortcodes/nasa_01_4_product_deal.php:175
+#: includes/widgets_elementor/nasa_01_4_product_deal.php:46
+msgid "URL button (default shop page)"
+msgstr ""
+
+#: admin/incls/nasa_08_wc_admin_taxonomy.php:286
+#: admin/incls/nasa_08_wc_admin_taxonomy.php:383
+#: admin/incls/nasa_09_wc_admin_brand.php:298
+#: admin/incls/nasa_09_wc_admin_brand.php:395
+#: includes/incls/nasa_05_custom_widgets.php:292
+#: includes/widgets_elementor/nasa_02_carousel.php:513
+#: includes/widgets_elementor/nasa_02_carousel_2.php:494
+#: admin/views/product_category/background_breadcrumb_create.php:84
+#: admin/views/product_category/background_breadcrumb_create.php:132
+#: admin/views/product_category/background_breadcrumb_edit.php:108
+#: admin/views/product_category/background_breadcrumb_edit.php:156
+#: admin/views/product_category/logo_create.php:108
+#: admin/views/product_category/logo_create.php:154
+#: admin/views/product_category/logo_create.php:200
+#: admin/views/product_category/logo_create.php:246
+#: admin/views/product_category/logo_edit.php:134
+#: admin/views/product_category/logo_edit.php:180
+#: admin/views/product_category/logo_edit.php:226
+#: admin/views/product_category/logo_edit.php:272
+msgid "Use image"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:908
+msgid "Use Smilies"
+msgstr ""
+
+#: includes/shortcodes/nasa_12_instagram_feed.php:102
+#: includes/widgets_elementor/nasa_12_instagram_feed.php:21
+msgid "User name for display show"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:631
+#: admin/incls/nasa_04_custom_setting.php:632
+msgid "Using Image Attributes To Do Brands"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:65
+msgid "UX Variations in Grid - Loop"
+msgstr ""
+
+#: includes/incls/nasa_08_wc_attr_ux.php:186
+msgid "Variants"
+msgstr ""
+
+#: admin/views/variation-admin-custom-fields.php:11
+msgid "Variation Custom Fields"
+msgstr ""
+
+#: admin/views/variation-admin-gallery-images.php:11
+msgid "Variation Image Gallery"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:52
+msgid "Variation Swatches"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:250
+#: includes/shortcodes/nasa_01_6_product_categories.php:203
+#: includes/shortcodes/nasa_01_6_product_groups.php:245
+#: includes/shortcodes/nasa_16_title.php:141
+#: includes/widgets_elementor/nasa_01_6_product_categories.php:47
+#: includes/widgets_elementor/nasa_01_6_product_groups.php:24
+msgid "Vertical"
+msgstr ""
+
+#: includes/shortcodes/nasa_03_banners.php:175
+#: includes/shortcodes/nasa_03_banners_2.php:157
+#: includes/widgets_elementor/nasa_02_carousel.php:211
+#: includes/widgets_elementor/nasa_02_carousel_2.php:199
+#: includes/widgets_elementor/nasa_03_banners.php:68
+#: includes/widgets_elementor/nasa_03_banners_2.php:56
+msgid "Vertical Alignment"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:190
+#: admin/views/product_category/loop_layout_buttons.php:4
+msgid "Vertical Buttons"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:447
+msgid "Vertical Menu"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:211
+msgid "Video Badge In Grid"
+msgstr ""
+
+#: post_type/incls/nasa_04_pin_products_banner.php:14
+#: post_type/incls/nasa_05_pin_material_banner.php:14
+msgid "View"
+msgstr ""
+
+#: post_type/incls/nasa_03_block.php:14
+msgid "View Block"
+msgstr ""
+
+#: post_type/incls/nasa_01_footer.php:14
+msgid "View Footer"
+msgstr ""
+
+#: post_type/incls/nasa_00_header.php:14
+msgid "View Header"
+msgstr ""
+
+#: layouts/portfolio/portfolio-content.php:22
+#: layouts/portfolio/portfolio-recent.php:30
+msgid "View large"
+msgstr ""
+
+#: layouts/products/nasa_products/carousel.php:129
+#: layouts/products/nasa_products/carousel.php:130
+#: layouts/products/nasa_products/slide_slick.php:119
+#: layouts/products/nasa_products/slide_slick.php:120
+msgid "View More"
+msgstr ""
+
+#: post_type/incls/nasa_02_portfolio.php:19
+msgid "View Project"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:380
+#: admin/incls/nasa_04_custom_setting.php:381
+#: admin/incls/nasa_04_custom_setting.php:386
+msgid "Viewed Products"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:400
+msgid "Viewed Products Limit"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:418
+msgid "Viewed Sidebar Layout"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:393
+msgid "Viewed Sidebar Off-Canvas"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:729
+msgid "VK"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:748
+msgid "VK URL Follow"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:643
+msgid "Website"
+msgstr ""
+
+#: nasa-autoloader.php:196
+msgid "Week"
+msgstr ""
+
+#: layouts/coming-soon/coming-soon.php:224
+msgid "week"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:675
+msgid "Weekdays End Time"
+msgstr ""
+
+#: includes/shortcodes/nasa_17_others.php:669
+msgid "Weekdays Start Time"
+msgstr ""
+
+#: nasa-autoloader.php:189
+msgid "Weeks"
+msgstr ""
+
+#: layouts/coming-soon/coming-soon.php:217
+msgid "weeks"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:832
+msgid "Weibo URL Follow"
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:400
+#: includes/widgets_elementor/nasa_13_share_follow.php:124
+msgid "Whatsapp"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:825
+msgid "Whatsapp URL Follow"
+msgstr ""
+
+#: layouts/products/globals/product-buttons.php:18
+#: layouts/products/globals/product-buttons.php:23
+msgid "Wishlist"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:191
+msgid "WooCommerce Open"
+msgstr ""
+
+#: admin/views/import-demo-data.php:24
+msgid "WPBakery - Homes"
+msgstr ""
+
+#: admin/incls/nasa_07_wc_attr_ux_admin.php:371
+msgid "Wrong request"
+msgstr ""
+
+#: includes/shortcodes/nasa_16_title.php:186
+msgid "X-Large"
+msgstr ""
+
+#: nasa-autoloader.php:197
+msgid "Year"
+msgstr ""
+
+#: layouts/coming-soon/coming-soon.php:225
+msgid "year"
+msgstr ""
+
+#: nasa-autoloader.php:190
+msgid "Years"
+msgstr ""
+
+#: layouts/coming-soon/coming-soon.php:218
+msgid "years"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:79 admin/incls/nasa_02_metabox.php:101
+#: admin/incls/nasa_02_metabox.php:307 admin/incls/nasa_02_metabox.php:328
+#: admin/incls/nasa_02_metabox.php:350 admin/incls/nasa_02_metabox.php:373
+#: admin/incls/nasa_02_metabox.php:387
+#: includes/incls/nasa_05_custom_widgets.php:503
+#: includes/incls/nasa_05_custom_widgets.php:513
+#: includes/incls/nasa_05_custom_widgets.php:523
+#: includes/shortcodes/nasa_01_1_products_masonry.php:158
+#: includes/shortcodes/nasa_01_2_products_viewed.php:156
+#: includes/shortcodes/nasa_01_4_product_deal.php:158
+#: includes/shortcodes/nasa_01_6_product_groups.php:257
+#: includes/shortcodes/nasa_01_6_product_groups.php:269
+#: includes/shortcodes/nasa_01_7_pin_products_banner.php:246
+#: includes/shortcodes/nasa_01_7_pin_products_banner.php:264
+#: includes/shortcodes/nasa_01_7_pin_products_banner.php:282
+#: includes/shortcodes/nasa_01_7_pin_products_banner.php:293
+#: includes/shortcodes/nasa_01_7_pin_products_banner.php:304
+#: includes/shortcodes/nasa_01_8_pin_material_banner.php:171
+#: includes/shortcodes/nasa_02_carousel.php:117
+#: includes/shortcodes/nasa_02_carousel.php:150
+#: includes/shortcodes/nasa_02_carousel.php:203
+#: includes/shortcodes/nasa_03_banners.php:201
+#: includes/shortcodes/nasa_03_banners.php:257
+#: includes/shortcodes/nasa_03_banners.php:268
+#: includes/shortcodes/nasa_03_banners_2.php:227
+#: includes/shortcodes/nasa_03_banners_2.php:238
+#: includes/shortcodes/nasa_08_post.php:320
+#: includes/shortcodes/nasa_08_post.php:350
+#: includes/shortcodes/nasa_08_post.php:362
+#: includes/shortcodes/nasa_08_post.php:374
+#: includes/shortcodes/nasa_08_post.php:386
+#: includes/shortcodes/nasa_08_post.php:397
+#: includes/widgets_elementor/nasa_01_7_pin_material_banner.php:31
+#: includes/widgets_elementor/nasa_01_7_pin_material_carousel.php:173
+#: includes/widgets_elementor/nasa_01_7_pin_products_banner.php:69
+#: includes/widgets_elementor/nasa_01_7_pin_products_carousel.php:204
+#: admin/views/product_category/cat_bg_dark.php:4
+msgid "Yes"
+msgstr ""
+
+#: admin/incls/nasa_02_metabox.php:109 admin/incls/nasa_02_metabox.php:150
+#: admin/incls/nasa_02_metabox.php:456 admin/incls/nasa_02_metabox.php:492
+#: includes/shortcodes/nasa_01_1_products.php:273
+#: includes/shortcodes/nasa_01_1_products.php:290
+#: includes/shortcodes/nasa_01_1_products.php:308
+#: includes/shortcodes/nasa_01_1_products.php:327
+#: includes/shortcodes/nasa_01_2_products_viewed.php:145
+#: includes/shortcodes/nasa_01_4_products_special_deal.php:247
+#: includes/shortcodes/nasa_01_4_products_special_deal.php:265
+#: includes/shortcodes/nasa_01_4_products_special_deal.php:276
+#: includes/shortcodes/nasa_01_6_product_categories.php:215
+#: includes/shortcodes/nasa_01_6_product_categories.php:239
+#: includes/shortcodes/nasa_01_6_product_categories.php:323
+#: includes/shortcodes/nasa_08_post.php:187
+#: includes/shortcodes/nasa_08_post.php:204
+#: includes/shortcodes/nasa_08_post.php:222
+#: includes/shortcodes/nasa_11_brands.php:74
+#: includes/shortcodes/nasa_12_instagram_feed.php:146
+#: includes/shortcodes/nasa_17_others.php:965
+#: includes/widgets_elementor/nasa_17_others.php:217
+#: admin/views/product_category/logo_create.php:8
+#: admin/views/product_category/logo_edit.php:28
+msgid "Yes, Please!"
+msgstr ""
+
+#: admin/views/product_category/cat_sidebar.php:15
+#: admin/views/product_category/cat_sidebar.php:25
+msgid "Yes, please!"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:154
+msgid "You need install plugin Contact Form 7 and Create a form"
+msgstr ""
+
+#: layouts/products/nasa_products/viewed.php:9
+msgid "You're recently viewed"
+msgstr ""
+
+#: includes/shortcodes/nasa_13_share_follow.php:385
+#: includes/widgets_elementor/nasa_13_share_follow.php:106
+msgid "Youtube"
+msgstr ""
+
+#: admin/incls/nasa_04_custom_setting.php:797
+msgid "Youtube URL Follow"
+msgstr ""
+
+#: includes/shortcodes/nasa_12_instagram_feed.php:134
+#: includes/widgets_elementor/nasa_12_instagram_feed.php:48
+msgid "Zic Zac"
+msgstr ""
+
+#: admin/incls/nasa_00_functions.php:283
+#: includes/shortcodes/nasa_03_banners.php:246
+#: includes/shortcodes/nasa_03_banners_2.php:216
+#: includes/widgets_elementor/nasa_02_carousel.php:301
+#: includes/widgets_elementor/nasa_02_carousel_2.php:282
+#: includes/widgets_elementor/nasa_03_banners.php:160
+#: includes/widgets_elementor/nasa_03_banners_2.php:141
+msgid "Zoom"
+msgstr ""
+
+#: includes/shortcodes/nasa_03_banners.php:247
+#: includes/shortcodes/nasa_03_banners_2.php:217
+#: includes/widgets_elementor/nasa_02_carousel.php:302
+#: includes/widgets_elementor/nasa_02_carousel_2.php:283
+#: includes/widgets_elementor/nasa_03_banners.php:161
+#: includes/widgets_elementor/nasa_03_banners_2.php:142
+msgid "Zoom Out"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:265
+#: includes/widgets_elementor/nasa_02_carousel_2.php:246
+#: includes/widgets_elementor/nasa_03_banners.php:122
+#: includes/widgets_elementor/nasa_03_banners_2.php:103
+msgid "zoomIn"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:266
+#: includes/widgets_elementor/nasa_02_carousel_2.php:247
+#: includes/widgets_elementor/nasa_03_banners.php:123
+#: includes/widgets_elementor/nasa_03_banners_2.php:104
+msgid "zoomInDown"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:267
+#: includes/widgets_elementor/nasa_02_carousel_2.php:248
+#: includes/widgets_elementor/nasa_03_banners.php:124
+#: includes/widgets_elementor/nasa_03_banners_2.php:105
+msgid "zoomInLeft"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:268
+#: includes/widgets_elementor/nasa_02_carousel_2.php:249
+#: includes/widgets_elementor/nasa_03_banners.php:125
+#: includes/widgets_elementor/nasa_03_banners_2.php:106
+msgid "zoomInRight"
+msgstr ""
+
+#: includes/widgets_elementor/nasa_02_carousel.php:269
+#: includes/widgets_elementor/nasa_02_carousel_2.php:250
+#: includes/widgets_elementor/nasa_03_banners.php:126
+#: includes/widgets_elementor/nasa_03_banners_2.php:107
+msgid "zoomInUp"
+msgstr ""

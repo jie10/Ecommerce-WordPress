@@ -1,0 +1,4 @@
+@charset "UTF-8";
+.row > .vc_vc_column > .columns {
+    width: 100%;
+}

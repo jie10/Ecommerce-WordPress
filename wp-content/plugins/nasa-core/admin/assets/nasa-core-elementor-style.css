@@ -1,0 +1,282 @@
+/* Safari | chrome */
+@-webkit-keyframes nasa-spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(359deg);
+    }
+}
+
+/* FF */
+@-moz-keyframes nasa-spin {
+    0% {
+        -moz-transform: rotate(0deg);
+    }
+    100% {
+        -moz-transform: rotate(359deg);
+    }
+}
+
+/* Opera */
+@-o-keyframes nasa-spin {
+    0% {
+        -o-transform: rotate(0deg);
+    }
+    100% {
+        -o-transform: rotate(359deg);
+    }
+}
+
+@keyframes nasa-spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(359deg);
+    }
+}
+
+.hidden-content {
+    display: none;
+}
+
+.admin-text-center {
+    text-align: center;
+}
+
+.nasa-wrap-attach-img {
+    margin-bottom: 20px;
+}
+
+.nasa-wrap-attach-img.nasa-wrap-no-img .nasa_remove_img {
+    display: none;
+}
+
+.nasa-attach-img {
+    margin: 10px auto;
+}
+
+.nasa-add-item {
+    display: block;
+    margin-top: 20px;
+}
+
+.nasa-wrap-items {
+    margin: 30px 0;
+}
+
+.nasa-wrap-item {
+    position: relative;
+    background: #f9f9f9;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.nasa-toggle-title {
+    display: block;
+    position: relative;
+    height: 30px;
+    line-height: 30px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background: #fff;
+    padding: 0 10px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.nasa-toggle-title:hover {
+    border-bottom-color: transparent !important;
+    color: #333 !important;
+}
+
+.nasa-toggle-title:before,
+.nasa-toggle-title:after {
+    content: "";
+    position: absolute;
+    top: 14px;
+    right: 10px;
+    height: 1px;
+    width: 10px;
+    border: 1px solid #333;
+    -webkit-transition: all 200ms ease-in-out;
+    -moz-transition: all 200ms ease-in-out;
+    -o-transition: all 200ms ease-in-out;
+    transition: all 200ms ease-in-out;
+}
+
+.nasa-toggle-title.hidden-options:before {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+.nasa-item-options {
+    margin-top: 20px;
+}
+
+.nasa-remove-item,
+.nasa-remove-selected,
+.nasa-remove-selected-deal {
+    text-indent: -9999px;
+    display: block;
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    border-radius: 50%;
+    width: 23px;
+    height: 23px;
+    background: #fff;
+    border: 1px solid #999 !important
+}
+
+.nasa-remove-item:before,
+.nasa-remove-item:after,
+.nasa-remove-selected:before,
+.nasa-remove-selected:after,
+.nasa-remove-selected-deal:before,
+.nasa-remove-selected-deal:after {
+    content: "";
+    position: absolute;
+    top: 10px;
+    left: 3px;
+    right: 3px;
+    height: 1px;
+    border: 1px solid #999;
+    -webkit-transition: all 200ms ease-in-out;
+    -moz-transition: all 200ms ease-in-out;
+    -o-transition: all 200ms ease-in-out;
+    transition: all 200ms ease-in-out;
+}
+
+.nasa-remove-item:hover:before,
+.nasa-remove-item:hover:after,
+.nasa-remove-selected:hover:before,
+.nasa-remove-selected:hover:after,
+.nasa-remove-selected-deal:hover:before,
+.nasa-remove-selected-deal:hover:after {
+    border-color: #333;
+}
+
+.nasa-remove-item:before,
+.nasa-remove-selected:before,
+.nasa-remove-selected-deal:before {
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+
+.nasa-remove-item:after,
+.nasa-remove-selected:after,
+.nasa-remove-selected-deal:after {
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.nasa-item-options.hidden-options {
+    display: none;
+}
+
+.select-product-deal.processing,
+.select-cat-item.processing,
+.select-menu-item.processing,
+.list-items-wrap {
+    display: none;
+}
+.list-items-wrap.actived {
+    display: block;
+}
+
+.list-items-wrap.loading {
+    min-height: 50px;
+    position: relative;
+}
+
+.list-items-wrap.loading:before {
+    content: "";
+    display: block;
+    position: absolute;
+    z-index: 9;
+    opacity: .6;
+    top: 50%;
+    left: 50%;
+    width: 20px;
+    height: 20px;
+    margin-left: -10px;
+    margin-top: -10px;
+    border-top: 2px solid #efefef;
+    border-bottom: 2px solid #333;
+    border-left: 2px solid #efefef;
+    border-right: 2px solid #333;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    -webkit-animation: nasa-spin .5s linear infinite;
+    -moz-animation: nasa-spin .5s linear infinite;
+    -o-animation: nasa-spin .5s linear infinite;
+    -ms-animation: nasa-spin .5s linear infinite;
+    animation: nasa-spin .5s linear infinite;
+}
+
+.info-selected {
+    margin: 10px 0;
+    position: relative;
+    position: relative;
+    padding: 0 5px;
+    border: 1px dashed #999;
+}
+
+.elementor-panel a.deal-product-item,
+.elementor-panel a.product-cat-item,
+.elementor-panel a.nasa-nav-menu {
+    display: block;
+    cursor: pointer;
+    color: #f76b6a;
+    border-bottom: none;
+}
+
+.elementor-control-wp p.product-name,
+.elementor-control-wp p.category-name,
+.elementor-control-wp p.menu-name {
+    margin: 5px 0;
+    font-weight: bold;
+    color: #333;
+}
+
+.elementor-control-wp p.no-selected {
+    margin: 5px 0;
+    color: #AAA;
+}
+
+.elementor-control-wp .list-items {
+    margin-top: 0;
+    border: 1px solid #999;
+}
+
+.elementor-control-wp .list-items p {
+    margin: 0;
+    padding: 5px 10px;
+    color: #333;
+    line-height: 1.2;
+}
+
+.elementor-control-wp .list-items p:hover {
+    text-decoration: underline;
+}
+
+.nasa-item:nth-of-type(2n+1) p {
+    background: #efefef;
+}
+
+.nasa-input-search {
+    margin-bottom: 10px;
+}

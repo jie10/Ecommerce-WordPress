@@ -1,0 +1,22 @@
+<?php
+function nasa_wpb_cosmetic() {
+    return array(
+        'post' => array(
+            'post_content' => '[vc_row fullwidth="1"][vc_column][rev_slider alias="slider-Cosmetic"][/vc_column][/vc_row][vc_row el_class="margin-top-60"][vc_column][nasa_slider align="center" bullets="false"][vc_column_text]
+    <h1 class="text-center" style="font-weight: 800;">"Cubilia a nisi blandit sem cras nec
+    temport adipiscing rku ullamcorper ligula."</h1>
+    <p class="text-center"><span style="font-weight: 900; color: #000; letter-spacing: 3px;">JOHN DOE</span> / CEO Elessi</p>
+    [/vc_column_text][vc_column_text]
+    <h1 class="text-center" style="font-weight: 800;">"Cubilia a nisi blandit sem cras nec
+    temport adipiscing rku ullamcorper ligula."</h1>
+    <p class="text-center"><span style="font-weight: 900; color: #000; letter-spacing: 3px;">JOHN DOE</span> / CEO Elessi</p>
+    [/vc_column_text][/nasa_slider][/vc_column][/vc_row][vc_row el_class="margin-top-40"][vc_column][vc_tta_tabs alignment="center" tabs_display_type="2d-radius"][vc_tta_section title="ALL" tab_id="1570508350034-495160d1-2fd6"][nasa_products style="carousel" pos_nav="both" shop_url="0" arrows="1" number="6" columns_number="5" columns_number_small="2" columns_number_tablet="2"][/vc_tta_section][vc_tta_section title="WOMEN" tab_id="1570508350051-1aa45ea6-e35d"][nasa_products style="carousel" pos_nav="both" shop_url="0" arrows="1" number="6" columns_number="5" columns_number_small="2" columns_number_tablet="2"][/vc_tta_section][vc_tta_section title="MEN" tab_id="1570508405022-0e700ad8-c662"][nasa_products style="carousel" pos_nav="both" shop_url="0" arrows="1" number="6" columns_number="5" columns_number_small="2" columns_number_tablet="2"][/vc_tta_section][vc_tta_section title="ON SALE" tab_id="1570508419137-09ceb588-3086"][nasa_products style="carousel" pos_nav="both" shop_url="0" arrows="1" number="6" columns_number="5" columns_number_small="2" columns_number_tablet="2"][/vc_tta_section][vc_tta_section title="NEW" tab_id="1570508432796-1e7a5c2c-5327"][nasa_products style="carousel" pos_nav="both" shop_url="0" arrows="1" number="6" columns_number="5" columns_number_small="2" columns_number_tablet="2"][/vc_tta_section][/vc_tta_tabs][/vc_column][/vc_row][vc_row el_class="margin-top-50"][vc_column][nasa_title title_text="Our work" title_type="h2" title_bg="#ffffff" title_desc="More than 300 makeup projects in the portfolio" title_align="text-center"][/vc_column][/vc_row][vc_row el_class="margin-top-40 padding-top-80 padding-bottom-80" css=".vc_custom_1570520549620{background-image: url(https://via.placeholder.com/1920x650) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column width="1/3" el_class="text-center"][nasa_compare_imgs title="Before - After" link="#" desc_text="Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s." before_image="3029" after_image="3028"][/vc_column][vc_column width="1/3" el_class="text-center mobile-margin-top-10 mobile-margin-bottom-10"][nasa_compare_imgs title="Before - After" link="#" desc_text="Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s." before_image="3029" after_image="3028"][/vc_column][vc_column width="1/3" el_class="text-center"][nasa_compare_imgs title="Before - After" link="#" desc_text="Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s." before_image="3029" after_image="3028"][/vc_column][/vc_row][vc_row el_class="margin-top-50"][vc_column][nasa_title title_text="Latest Blog" title_type="h2" title_bg="#ffffff" title_desc="The freshest and most exctings news" title_align="text-center"][nasa_post dots="true" arrows="0" posts="4" columns_number="3" columns_number_small="2" columns_number_tablet="2" date_enable="no" author_enable="no" page_blogs="no"][/vc_column][/vc_row][vc_row el_class="margin-bottom-50 mobile-margin-bottom-25"][vc_column][nasa_brands images="3074,3074,3074,3074,3074,3074" columns_number="6" columns_number_tablet="4" columns_number_small="3"][/vc_column][/vc_row]',
+
+            'post_title' => 'WPB Cosmetic',
+            'post_name' => 'wpb-cosmetic'
+        ),
+        'post_meta' => array(
+            '_wpb_shortcodes_custom_css' => '.vc_custom_1570520549620{background-image: url(https://via.placeholder.com/1920x650) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}'
+        )
+    );
+}
